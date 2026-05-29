@@ -29,7 +29,7 @@ Directly serves the scheme's aim — **storage to integrate renewables and stabi
 | Not double-funded | yes | solar funded separately, no overlap | ✓ |
 
 ## 5. Project description
-100 MWh / 50 MW LFP system (2h), CAEN **3516** (storage); grid connection (ATR) at a high-headroom substation; ANRE establishment authorization (>1 MW) + operating licence. [E35](research/sources.md#e35) [E13](research/sources.md#e13)
+100 MWh / 50 MW LFP system (2h), CAEN **3516** (storage); grid connection (ATR) at a high-headroom substation; ANRE establishment authorization (>1 MW) + operating licence. [E35](research/sources.md#e35) [E13](research/sources.md#e13) **Candidate site:** the reinforced **Suceava 400/110 kV** node (DSO **Delgaz Grid**), near **Ilișești / DN17** — see [site-suceava-ilisesti.md](site-suceava-ilisesti.md). [E42](research/sources.md#e42) [E43](research/sources.md#e43)
 
 ## 6. Budget & eligible costs
 | Item | Total | Eligible? | Notes |

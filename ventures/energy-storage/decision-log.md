@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Site selected: Suceava / Ilișești (standalone battery)
+- **Decision:** localize to **Suceava county / Ilișești** (DN17) as a **standalone battery** (drop solar — Bucovina sun is weak [E47](research/sources.md#e47)). Connect to the **reinforced Suceava 400/110 kV** node (Gădălin ring + Moldova interconnector) via **Delgaz Grid**; regional precedent = Premier Energy's 200 MW BESS near Iași. [E42](research/sources.md#e42) [E43](research/sources.md#e43) [E45](research/sources.md#e45)
+- **Land:** ~1–2 ha cheap extravilan (~€2.5–8/m²) — trivial vs CAPEX; a willing single-owner plot near an MV line. [E44](research/sources.md#e44)
+- **Economics:** [finsim-suceava.json](finsim-suceava.json) → IRR **3.8%**, NPV −€4.7M @10%, min DSCR 0.93x — **good site, marginal merchant economics**; hinges on a winning €/MWh bid + a tolling/floor + cheaper capital. Node-specific balancing value (reinforcement + Moldova flows) is upside to confirm.
+- **Next:** Delgaz ATR/connection-cost request (real node headroom — O3/O4); parcel search; confirm Suceava station capacity with Transelectrica. See [site-suceava-ilisesti.md](site-suceava-ilisesti.md).
+
+---
+
 ## 2026-05-29 — Grant corrected to €6.0M (scheme cap) → IRR 4.1%; + funding-application mockup
 - **Correction:** the earlier €8M grant exceeded the scheme cap. The Modernisation Fund pays **≤€69k/MWh** → a 100 MWh battery maxes at ~€6.9M; a competitive **€60k/MWh bid = €6.0M**. [E41](research/sources.md#e41)
 - **Updated finsim:** IRR **4.1%**, NPV **−€5.8M** @10%, payback 2036, min DSCR 1.00x — **clearly sub-hurdle**. Leans even harder on a keener **€/MWh bid**, a **revenue floor (tolling)** and **cheaper debt**.

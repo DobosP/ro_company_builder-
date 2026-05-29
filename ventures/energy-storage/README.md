@@ -12,7 +12,8 @@
 - [risk-register.md](risk-register.md)
 - [decision-log.md](decision-log.md)
 - [**funding-application.md**](funding-application.md) — mockup full Modernisation Fund grant dossier
-- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) — simulator config & generated projection
+- [**site-suceava-ilisesti.md**](site-suceava-ilisesti.md) — concrete site assessment (Suceava standalone)
+- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) (hybrid) + [Suceava standalone scenario](finsim-suceava-report.md)
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 
 ## Snapshot

@@ -83,3 +83,15 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e40"></a>**E40.** PBS Worldwide / INSSE — Romania farmland **~€8,000–9,000/ha** (2025); regional variation (Bucharest-Ilfov ~€12k, West ~€9k, SE/SW ~€8–8.5k) — https://www.pbsworldwide.com/real-estate/how-much-does-farmland-cost-romania-2025 — *verified 2026-05*
 
 <a id="e41"></a>**E41.** ESS-News / oportunitati-ue / MLex — Modernisation Fund standalone storage scheme application: **up to 100%** of investment cost (operating excluded), **≤€10M/company** (multiple bids allowed), select on **€/MWh**, submit via **MySMIS2021**; guide/timeline on energie.gov.ro — https://oportunitati-ue.gov.ro/en/ministerul-energiei-anunta-lansarea-unui-nou-apel-de-150-de-milioane-de-euro-pentru-investitii-in-stocare-in-baterii/ — *verified 2026-05*
+
+<a id="e42"></a>**E42.** Energynomics — Transelectrica **400/220/110/20 kV Suceava substation** (TTB Bacău); reinforcement: **400 kV Gădălin–Suceava** ring line + Suceava–Bălți (Moldova) + 2nd 400/110 kV transformer + reactive compensation — https://www.energynomics.ro/en/transelectrica-starts-work-on-the-400-kv-lines-connecting-gadalin-to-suceava-and-suceava-to-balti/ — *verified 2026-05*
+
+<a id="e43"></a>**E43.** Delgaz Grid — DSO for **Suceava** (NE region, 81,500+ km); grid connection / **ATR** (Order ANRE 59/2013), online request + connection cost-estimator — https://delgaz.ro/energie-electrica/racordare-producator — *verified 2026-05*
+
+<a id="e44"></a>**E44.** Romimo / Publi24 / OLX — Suceava **extravilan** land listings ~**€2.5–8/m²** (cheaper for plain arable; negotiable) — https://www.romimo.ro/terenuri/teren-extravilan/vanzare/suceava/ — *verified 2026-05*
+
+<a id="e45"></a>**E45.** Economica.net — **Premier Energy** building a **200 MW BESS near Iași** (~€75M), same NE/Delgaz region — regional precedent — https://www.economica.net/una-dintre-cele-mai-mari-baterii-de-stocare-a-energiei-din-romania-premier-enegy-incepe-constructia-unui-sistem-bess-de-200-mw-langa-iasi_936681.html — *verified 2026-05*
+
+<a id="e46"></a>**E46.** Wikipedia / CJ Suceava — **Ilișești** commune (villages Ilișești + Brașca) on **DN17 (E58)**, ~20 km from Suceava / 18 km from Gura Humorului; sub-Carpathian hills + agricultural land; fixed + wireless internet — https://ro.wikipedia.org/wiki/Comuna_Ili%C8%99e%C8%99ti,_Suceava — *verified 2026-05*
+
+<a id="e47"></a>**E47.** Sunshine Solar Energy / Wikipedia — Romania solar resource ~1,000–1,300 kWh/m²/yr (north, incl. Bucovina) vs up to ~1,650 in the SE → **north = weak solar** — https://www.sunshinesolarenergy.com/romania_solar_potential.php — *verified 2026-05*

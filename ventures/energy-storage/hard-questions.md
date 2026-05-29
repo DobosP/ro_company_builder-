@@ -35,7 +35,8 @@ Fast solar/wind growth outpaces grid flexibility → **congestion, curtailment, 
 Development (permitting/grid/land), hybrid EPC management, and **outsourced** trading/optimisation + O&M. [E9](research/sources.md#e9) Week-1 reality is development & paperwork.
 
 ## 8. Location & strategic fit
-**The whole game:** a node with **grid headroom** + **high irradiation** + **Class III–V land** (<50 ha, no PUZ). Co-location shares the connection and land, improving economics. [E13](research/sources.md#e13) [E22](research/sources.md#e22) [E27](research/sources.md#e27) [E28](research/sources.md#e28)
+**The whole game:** a node with **grid headroom** + (for the hybrid) **high irradiation** + land. Co-location shares the connection and land, improving economics. [E13](research/sources.md#e13) [E22](research/sources.md#e22) [E28](research/sources.md#e28)
+- **Candidate site: Suceava / Ilișești** — the reinforced **400/110 kV Suceava** node (Gădălin ring + Moldova interconnector), DSO **Delgaz Grid**, cheap ~1–2 ha extravilan on **DN17**. Bucovina's weak sun ⇒ go **standalone battery** here (not the hybrid). Full assessment: [site-suceava-ilisesti.md](site-suceava-ilisesti.md). [E42](research/sources.md#e42) [E43](research/sources.md#e43) [E47](research/sources.md#e47)
 
 ## 9. Risks & mitigations
 Top risks (full table in [risk-register.md](risk-register.md)): grid connection denied/limited; balancing-price saturation; **solar capture cannibalization**; **grant-route misfit**; **solar land/agri permitting**; CAPEX/financing; crowding. Hybrid **reduces** overall merchant risk vs either asset alone. [E23](research/sources.md#e23)

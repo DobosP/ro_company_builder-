@@ -13,7 +13,7 @@
 | **CAEN code(s)** | **3512** solar production + **3516** storage + **3515** trading (Rev. 3 group 351) [E35](research/sources.md#e35) |
 | **Revenue model** | Battery: balancing ~60–70% + arbitrage ~20–30% [E11](research/sources.md#e11); plus **solar generation** (~13 GWh/yr, merchant/PPA). |
 | **Funding intent** | Equity + debt **+ Modernisation Fund grant** — battery via **standalone** scheme, *or* **co-located** behind-the-meter route (mutually exclusive — verify). [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
-| **Location in RO** | South/SE node (Dobrogea/Oltenia) with grid headroom + good irradiation + Class III–V land. [E22](research/sources.md#e22) [E27](research/sources.md#e27) |
+| **Location in RO** | **Candidate: Suceava / Ilișești** (DN17) — by the reinforced 400/110 kV Suceava node; cheap extravilan land. North = weak solar → **standalone battery** here. See [site-suceava-ilisesti.md](site-suceava-ilisesti.md). [E42](research/sources.md#e42) [E47](research/sources.md#e47) *(SE/Dobrogea remains the better hybrid+solar location.)* |
 | **Rubric score** | **88/115** (hybrid lifts financial viability — see [decision-log.md](decision-log.md)) |
 
 ## Why now
