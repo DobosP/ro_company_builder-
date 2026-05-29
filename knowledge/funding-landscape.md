@@ -19,6 +19,9 @@ Live calls sit under named programmes (all via [`oportunitati-ue.gov.ro`](https:
 - **POR** — eight **Regional** programmes (SME competitiveness, urban) run by the regional development agencies.
 - Plus sector OPs (transport, health, education) and the CAP for agriculture; Romania's total 2021–27 envelope is estimated at **~€100B** including agriculture. [[S28]](sources.md#s28)
 
+### Agriculture — CAP (separate from Cohesion)
+Farming and agri-food are funded through the **Common Agricultural Policy National Strategic Plan (PNS) 2023–27 = €15.83B** — Pillar I direct payments (**APIA**, ~€250/ha combined) + Pillar II rural-development investment grants (**AFIR**, e.g. DR-23 processing €164.9M, DR-12 young farmers). See the [agriculture venture](../ventures/agriculture-irrigation/). [[S29]](sources.md#s29)
+
 ## Where to find live calls
 - **`oportunitati-ue.gov.ro`** — the government portal listing active calls under each operational programme. [[S11]](sources.md#s11)
 - **MIPE** (Ministry of European Investments and Projects) — the main national managing authority. [[S13]](sources.md#s13) See [institutions.md](institutions.md).

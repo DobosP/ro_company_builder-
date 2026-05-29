@@ -12,6 +12,8 @@
 | **APIA** | Agenția de Plăți și Intervenție pentru Agricultură | Direct payments & market intervention in agriculture | **Agriculture venture** |
 | **AFIR** | Agenția pentru Finanțarea Investițiilor Rurale | Rural development investment financing | **Agriculture venture** |
 | **ANSVSA** | Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor | Sanitary-veterinary & food safety | **Agriculture/food venture** |
+| **ANIF** | Agenția Națională de Îmbunătățiri Funciare | National land-improvement / **irrigation** infrastructure (channels, pumping stations) | **Agriculture venture** |
+| **Apele Române (ANAR)** | Administrația Națională „Apele Române" | Water-resource authority — **water-abstraction permits** | **Agriculture venture** (irrigation) |
 | **ANCOM** | Autoritatea Națională pentru Administrare și Reglementare în Comunicații | Communications/telecom regulator | Telecom/data ventures |
 | **Court (Judecătorie)** | — | Registers NGOs in the *Registrul Asociațiilor și Fundațiilor* | **Nonprofit app venture** |
 | **Transelectrica / DSOs** | — | Transmission operator / distribution operators — grid connection | **Energy storage venture** |

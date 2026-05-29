@@ -63,3 +63,5 @@ Dated sources backing the facts in this knowledge base. Re-verify before acting;
 <a id="s27"></a>**S27.** Omega Consulting / fonduri-structurale.ro — Romania 2021–27 operational programmes: POCIDIF (~€2.14B), PODD (~€13.62B), POTJ (~€1.77B) — https://www.omega-consulting.ro/presentation-of-the-operational-program-for-smart-growth-digitization-and-financial-instruments-pocidif-2021-2027/?lang=en — *verified 2026-05*
 
 <a id="s28"></a>**S28.** Govnet / REI Finance Advisors — Romania to receive ~**€100B** in EU funds 2021–27 (incl. agriculture/CAP) — https://www.govnet.ro/General/Economics/REI-Finance-Advisors-analysis-Romania-to-get-EUR-100-bln.-of-EU-funds-in-the-financial-program-2021-2027-three-times-more-than-between-2014-2020-Agriculture-and-sustainable-development-programs-one-third-of-the-total-budget-available — *verified 2026-05*
+
+<a id="s29"></a>**S29.** EU CAP Network / oportunitati-ue — Romania **CAP Strategic Plan (PNS) 2023–27 = €15.83B** (APIA Pillar I direct payments + AFIR Pillar II rural development) — https://eu-cap-network.ec.europa.eu/publications/cap-strategic-plan-factsheet-romania_en — *verified 2026-05*

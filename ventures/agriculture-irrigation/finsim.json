@@ -1,0 +1,39 @@
+{
+  "name": "Irrigated veg production + processing (200 ha + unit)",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 10,
+  "legal_form": "srl",
+  "tax_regime": "auto",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.11},
+  "revenue": [
+    {"name": "Processed products (paste / frozen-canned)", "base": 2000000, "growth": 0.08},
+    {"name": "Fresh / raw crop sales", "base": 600000, "growth": 0.03},
+    {"name": "APIA direct payments (~200 ha)", "amounts_by_year": [50000, 50000, 50000, 50000, 50000, 50000, 50000, 50000, 50000, 50000]}
+  ],
+  "costs": {
+    "fixed_opex": 500000,
+    "variable_pct_of_revenue": 0.45,
+    "payroll": [
+      {"role": "Farm workers (core)", "count": 5, "gross_monthly": 4000},
+      {"role": "Plant operators", "count": 6, "gross_monthly": 4500},
+      {"role": "Agronomist / plant manager", "count": 2, "gross_monthly": 10000}
+    ]
+  },
+  "capex": [
+    {"name": "Irrigation (200 ha, drip + pumping)", "amount": 600000, "year": 2027, "depreciation_years": 10},
+    {"name": "Processing line + cold storage", "amount": 4000000, "year": 2027, "depreciation_years": 12},
+    {"name": "Land (200 ha @ ~8.5k)", "amount": 1700000, "year": 2027, "depreciation_years": 0}
+  ],
+  "grants": [
+    {"name": "AFIR DR-23 processing", "amount": 2000000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR irrigation subsidy", "amount": 300000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 1500000,
+    "debt": [{"amount": 2500000, "rate": 0.07, "term_years": 8, "type": "annuity", "draw_year": 2027}]
+  },
+  "dividend_payout": 0.3
+}

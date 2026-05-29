@@ -14,9 +14,9 @@ One folder per concrete venture. **This pass only scaffolds** — deep research 
 | # | Slug | Venture | Type | Status | Notable angles to research |
 |---|------|---------|------|--------|----------------------------|
 | 1 | [`energy-storage`](energy-storage/) | Battery storage + co-located solar (hybrid) | Commercial | 🟦 **v2 hybrid deep-dive** | ANRE licensing, grid connection, Modernisation Fund (standalone & co-located), solar land/permits, siting |
-| 2 | `agriculture-irrigation` | Irrigation + infra to produce/process agri products | Commercial | ⬜ not started | APIA/AFIR funding, ANSVSA food safety, water rights, land |
+| 2 | [`agriculture-irrigation`](agriculture-irrigation/) | Irrigated production + processing (import substitution) | Commercial | 🟦 **v1 deep-dive** | CAP/AFIR DR-23, APIA, ANIF/Apele Române water, ANSVSA, land |
 | 3 | `kids-social-app` | Social media app for children (nonprofit) | NGO | ⬜ not started | NGO form (court registration), GDPR children's data, safeguarding |
 | 4 | `dyslexia-learning-app` | Learning app for children with dyslexia | Commercial or NGO | ⬜ not started | Pedagogy/evidence base, GDPR children's data, accessibility |
 | 5 | `romania-data-repo` | Data/knowledge repository for Romania | TBD | ⬜ not started | Open-data sources, end-product definition, licensing, ANCOM/ANSPDCP |
 
-> Venture #1 (energy storage) now has a [v1 deep-dive](energy-storage/). The other four are still queued.
+> Ventures #1 (energy) and #2 (agriculture) have v1 deep-dives. Three remain queued.
