@@ -44,9 +44,19 @@
 - **LCOS** for well-sited 4h LFP ~**$65–150/MWh**. [E16](sources.md#e16)
 - See [`../financial-model.md`](../financial-model.md) for an illustrative 50 MW / 100 MWh case.
 
-## 7. Open research tasks
-- [ ] Exact **CAEN Rev. 3** code(s) for energy storage operation/trading.
-- [ ] Current **ANRE licence** thresholds & fees for storage operation (vs the >1 MW establishment-authorization trigger).
-- [ ] The **2026 standalone scheme** call-opening date, per-project aid cap, and scoring details (CISAF). [E2](sources.md#e2)
-- [ ] Grid-connection availability by node (Transelectrica/DSO capacity maps) — where is headroom?
-- [ ] Realistic 2026–2030 **balancing-price decay** curve as capacity scales.
+## 7. Solar co-location & hybrid economics
+The market is **shifting from standalone to hybrid** (solar + BESS): pure-merchant solar and pure-merchant storage both carry more risk, while hybrids get **better capture prices, curtailment protection, and grid-integration value**, and storage lets the plant **self-curtail during negative prices** and dispatch when profitable. [E23](sources.md#e23) Romania is becoming a "storage-led solar market" where financed hybrid platforms attract more capital than standalone development. [E24](sources.md#e24) Example: **Gârla Mare 2** — 126 MWp solar + 200 MWh BESS, €90M Raiffeisen financing, COD early 2027. [E24](sources.md#e24)
+
+- **Solar resource (south RO):** GHI in Dobrogea/Oltenia ~1,450–1,750 kWh/m²/yr; **specific yield ~1,200–1,400 kWh/kWp/yr** (a N Dobrogea case ~1,625). [E22](sources.md#e22) → a 10 MWp park ≈ **~13 GWh/yr**.
+- **Solar CAPEX:** EU utility-scale ~**€450–700/kWp** → ~€5–7M for 10 MWp (*confirm Romania specifics*). [E29](sources.md#e29)
+- **Coupling:** a small solar park beside a large battery is typically **AC-coupled**, sharing the connection point/substation — saving AC switchgear, MV transformers, trenching. **DC-coupling** (oversized PV behind one inverter) recovers clipped energy (~5% more capture at 1.5:1 DC/AC) but suits tighter PV:battery ratios. [E28](sources.md#e28)
+- **Solar permits/licensing:** >1 MW needs an **ANRE setting-up authorization** (Order 6/2025; ≤1 MW exempt). [E26](sources.md#e26) **Land:** high-fertility Class I–III ag land needs Ministry-of-Agriculture conversion; projects **<50 ha on Class III/IV/V extra-muros** land skip the PUZ; **MADR Order 4/2025** allows agrivoltaic grassland dual-use; PLx 255/2025 simplifies authorization. [E27](sources.md#e27) [E25](sources.md#e25)
+- **⚠️ Grant-route nuance:** the **co-located behind-the-meter** storage grant requires the battery to **absorb ≥75% of the RES plant's energy** (≤100% eligible cost, €10M/enterprise cap) [E3](sources.md#e3) — which constrains grid-charging/arbitrage. The **standalone** scheme keeps the battery free, with the solar as a separate asset sharing the connection. **Pick one route per asset and verify eligibility.** [E2](sources.md#e2)
+
+## 8. Open research tasks
+- [ ] Exact **CAEN Rev. 3** code(s) for storage + solar generation/trading.
+- [ ] **ANRE licence** thresholds & fees for storage operation (vs the >1 MW setting-up-authorization trigger). [E26](sources.md#e26)
+- [ ] 2026 **standalone scheme** call date, per-project cap, €/MWh scoring; and whether a co-located battery beside *new* solar qualifies. [E2](sources.md#e2) [E3](sources.md#e3)
+- [ ] Grid-connection headroom by node (Transelectrica/DSO maps).
+- [ ] Realistic 2026–2030 **balancing-price decay** + solar **capture-price cannibalization** curves.
+- [ ] Romania-specific **solar CAPEX €/kWp** and a land shortlist (Class III–V, <50 ha). [E29](sources.md#e29) [E27](sources.md#e27)

@@ -1,40 +1,48 @@
-# Market Analysis — Battery Energy Storage (Romania)
+# Market Analysis — Hybrid Solar-plus-Storage (Romania)
 
 > Verified 2026-05. [E#] → [sources](research/sources.md). Not investment advice.
 
-## Market sizing (Romania)
+## The market shift: hybrid, not standalone
+Romania is becoming a **storage-led solar market**. Negative pricing, congestion and merchant exposure are pushing developers from pure-play solar/storage to **hybrid** assets, which earn **better capture prices, curtailment protection and grid-integration value** and attract stronger capital. [E23](research/sources.md#e23) [E24](research/sources.md#e24) Recent example: **Gârla Mare 2** — 126 MWp solar + 200 MWh BESS, €90M Raiffeisen financing, COD early 2027. [E24](research/sources.md#e24)
+
+## Market sizing (storage anchor)
 | Layer | Definition | Estimate | Basis |
 |-------|-----------|----------|-------|
-| **TAM** | National storage build-out to 2030 | **~1,200 MW target** (govt talk of ~2,000 MW by end-2026) | [E1](research/sources.md#e1) [E5](research/sources.md#e5) |
-| **SAM** | Capacity not yet built/awarded that a new IPP could win | **~950+ MW** (≈241 MW live mid-2026 vs target) minus already-announced pipeline | [E1](research/sources.md#e1) |
-| **SOM** | Realistic for a new entrant, 1–3 projects | **~50–150 MW** over 3–5 yrs | judgment |
+| **TAM** | National storage build-out to 2030 | ~1,200 MW target (talk of ~2,000 MW by end-2026) | [E1](research/sources.md#e1) [E5](research/sources.md#e5) |
+| **SAM** | Capacity a new IPP could still win | ~950+ MW vs ~241 MW live | [E1](research/sources.md#e1) |
+| **SOM** | Realistic for a new entrant (1–3 hybrids) | ~50–150 MW over 3–5 yrs | judgment |
+
+Solar adds a second revenue layer; the binding constraint remains the **grid connection**.
+
+## Solar resource (south RO)
+GHI Dobrogea/Oltenia ~1,450–1,750 kWh/m²/yr; **specific yield ~1,200–1,400 kWh/kWp/yr** → a 10 MWp park ≈ **~13 GWh/yr**. [E22](research/sources.md#e22)
 
 ## Customer / who pays
-- **Transelectrica** — balancing services (aFRR/mFRR/FCR), the dominant revenue. [E11](research/sources.md#e11)
-- **Wholesale market (OPCOM DAM/IDM)** — arbitrage. [E12](research/sources.md#e12)
-- Practically, revenue is realised through an **optimiser/trader** offtake/optimisation agreement. [E9](research/sources.md#e9)
+- **Transelectrica** — balancing (dominant battery revenue). [E11](research/sources.md#e11)
+- **OPCOM DAM/IDM** — arbitrage. [E12](research/sources.md#e12)
+- **Solar offtaker / PPA** or merchant for the PV output.
+- Realised via an **optimiser/trader** offtake. [E9](research/sources.md#e9)
 
 ## Competition & substitutes
-| Player | Project | Size | Note |
+| Player | Project | Size | Type |
 |--------|---------|------|------|
-| Nova Power & Gas | Florești, Cluj | 200 MW / 400 MWh | Largest operational [E8](research/sources.md#e8) |
-| Aukera (BE) | Gura Ialomiței | 250 MW / 500 MWh | Biggest announced; ~mid-2026 [E7](research/sources.md#e7) |
-| Toki Power (Renalfa, AT) | standalone | 150 MW / 300 MWh | 2h→4h [E19](research/sources.md#e19) |
-| R.Power | Scornicești | 127 MW / 254 MWh | GEN-I optimised [E9](research/sources.md#e9) |
-| Electrica | 15 sites | ~1 GWh | Utility, by 2030 [E6](research/sources.md#e6) |
-| Hidroelectrica | hydro/wind sites | 36–256 MWh each | Incumbent utility [E19](research/sources.md#e19) |
+| Kraftfeld / ALFI | Gârla Mare 2 | 126 MWp + 200 MWh | **Hybrid** [E24](research/sources.md#e24) |
+| Nova Power & Gas | Florești, Cluj | 200 MW / 400 MWh | Storage [E8](research/sources.md#e8) |
+| Aukera (BE) | Gura Ialomiței | 250 MW / 500 MWh | Storage [E7](research/sources.md#e7) |
+| R.Power | Scornicești | 127 MW / 254 MWh | Storage (GEN-I optimised) [E9](research/sources.md#e9) |
+| Electrica / Hidroelectrica | multiple | ~1 GWh / 36–256 MWh | Utility [E6](research/sources.md#e6) [E19](research/sources.md#e19) |
 
-**Substitutes for flexibility:** pumped hydro (a 1 GW project is progressing), gas peakers, demand response, interconnectors.
+**Substitutes for flexibility:** pumped hydro, gas peakers, demand response, interconnectors.
 
-**Our edge must be:** securing **grid-connection rights + sited land** at a good node, **speed**, and a **financing + route-to-market** package — not the batteries themselves (commodity).
+**Our edge:** **grid-connection rights + sited land**, **speed**, and a **financed hybrid** package (lower merchant risk than standalone solar *or* standalone storage) — not the commodity hardware.
 
 ## Demand evidence
-RES-driven congestion, curtailment and **negative prices**; 2025 DAM avg €110/MWh with €168/MWh daily spreads; sustained government funding (~€450M+ across Modernisation Fund tranches + municipal). [E12](research/sources.md#e12) [E20](research/sources.md#e20) [E21](research/sources.md#e21) [E1](research/sources.md#e1) [E18](research/sources.md#e18)
+RES-driven congestion, curtailment and negative prices; 2025 DAM avg €110/MWh, €168/MWh daily spread; sustained funding (~€450M+ across Modernisation Fund tranches + municipal); capital flowing to financed hybrids. [E12](research/sources.md#e12) [E20](research/sources.md#e20) [E21](research/sources.md#e21) [E1](research/sources.md#e1) [E24](research/sources.md#e24)
 
 ## Geography
-Target nodes with **evacuation headroom** near RES clusters (e.g. Dobrogea/south-east solar-wind belt) and strong substation capacity — the ATR/operational-limitation regime (Order 20/2025) penalises congested nodes. [E14](research/sources.md#e14)
+South/SE node (Dobrogea/Oltenia): grid **headroom** + high **irradiation** + suitable **Class III–V land** (<50 ha avoids PUZ). [E22](research/sources.md#e22) [E27](research/sources.md#e27) [E14](research/sources.md#e14)
 
 ## Key uncertainties
-- [ ] Balancing-price decay as GW arrive (compresses 60–70% of revenue). [E11](research/sources.md#e11)
-- [ ] Where exactly is grid headroom? (Transelectrica/DSO capacity maps)
-- [ ] 2026 standalone-scheme competitiveness (€/MWh clearing level). [E2](research/sources.md#e2)
+- [ ] Balancing-price decay (60–70% of battery revenue) + solar **capture-price cannibalization**. [E11](research/sources.md#e11) [E23](research/sources.md#e23)
+- [ ] Grid headroom by node (Transelectrica/DSO maps).
+- [ ] Grant route (standalone vs co-located) eligibility + competitiveness. [E2](research/sources.md#e2) [E3](research/sources.md#e3)

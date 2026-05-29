@@ -1,28 +1,28 @@
-# Venture Brief — Battery Energy Storage (Romania)
+# Venture Brief — Hybrid Solar-plus-Storage (Romania)
 
-> Stage: ☑ Idea ☑ Validate (desk research) ☐ Model ☐ Form ☐ Operate (see [lifecycle](../../framework/venture-lifecycle.md)). Verified 2026-05.
+> Stage: ☑ Idea ☑ Validate (desk research) ☐ Model ☐ Form ☐ Operate (see [lifecycle](../../framework/venture-lifecycle.md)). Verified 2026-05. **v2 — now a hybrid** (battery + co-located solar).
 
 | Field | Value |
 |-------|-------|
 | **Name** | *(working)* RO Grid Storage SRL |
-| **One-line pitch** | Develop, own and operate utility-scale battery storage at grid-strategic sites in Romania, monetising balancing services + arbitrage. |
-| **Problem** | Booming solar/wind causes congestion, curtailment and negative prices; the grid lacks fast flexibility. [E20](research/sources.md#e20) [E21](research/sources.md#e21) |
-| **Customer / beneficiary** | Transelectrica (balancing services); the wholesale market via OPCOM (arbitrage); ultimately the grid & renewables. |
-| **Solution** | Standalone BESS (e.g. 50 MW / 100 MWh) at a connection-advantaged node, optimised by a trading partner. |
-| **Legal form (intended)** | **SRL** (capital-intensive, CIT regime — micro 1% not relevant) — see [formation](../../knowledge/company-formation.md) |
-| **CAEN code(s)** | likely **3511** (electricity production — storage "assimilated to producers") + **3514** (trading) — *[TODO: verify Rev. 3 storage code]* [E15](research/sources.md#e15) |
-| **Revenue model** | Balancing (aFRR/mFRR/FCR) ~60–70% + DAM/IDM arbitrage ~20–30%, ideally under an optimisation/tolling contract. [E11](research/sources.md#e11) |
-| **Funding intent** | Equity + debt **+ Modernisation Fund grant** (live €150M standalone scheme, awards to 2030). [E2](research/sources.md#e2) |
-| **Location in RO** | A node with grid headroom near RES clusters (e.g. Dobrogea/south) — site selection is the key asset. |
-| **Rubric score** | **~84/115** (see [decision-log.md](decision-log.md)) |
+| **One-line pitch** | Develop, own and operate a **hybrid solar-plus-storage** asset at a grid-strategic Romanian site — a battery monetising balancing + arbitrage, fed cheaply by a co-located solar park. |
+| **Problem** | Booming solar/wind causes congestion, curtailment and negative prices; the grid lacks flexibility, and pure-merchant solar is increasingly exposed. [E20](research/sources.md#e20) [E23](research/sources.md#e23) |
+| **Customer / beneficiary** | Transelectrica (balancing); OPCOM wholesale (arbitrage); solar offtaker/PPA; the grid & renewables. |
+| **Solution** | **50 MW / 100 MWh battery + ~10 MWp co-located solar**, sharing one grid connection (AC-coupled). Solar gives cheap midday/negative-price charging + capture-price uplift; the battery firms & time-shifts it. [E28](research/sources.md#e28) |
+| **Legal form (intended)** | **SRL** (per-site SPV); CIT regime — see [formation](../../knowledge/company-formation.md) |
+| **CAEN code(s)** | electricity **production (solar + storage)** + **trading** — *[TODO: verify Rev. 3 codes]* [E15](research/sources.md#e15) [E26](research/sources.md#e26) |
+| **Revenue model** | Battery: balancing ~60–70% + arbitrage ~20–30% [E11](research/sources.md#e11); plus **solar generation** (~13 GWh/yr, merchant/PPA). |
+| **Funding intent** | Equity + debt **+ Modernisation Fund grant** — battery via **standalone** scheme, *or* **co-located** behind-the-meter route (mutually exclusive — verify). [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
+| **Location in RO** | South/SE node (Dobrogea/Oltenia) with grid headroom + good irradiation + Class III–V land. [E22](research/sources.md#e22) [E27](research/sources.md#e27) |
+| **Rubric score** | **88/115** (hybrid lifts financial viability — see [decision-log.md](decision-log.md)) |
 
 ## Why now
-A live, generous funding window (Modernisation Fund, CISAF) coincides with strong arbitrage/balancing spreads and a 1,200–2,000 MW national build-out. [E1](research/sources.md#e1) [E2](research/sources.md#e2) [E12](research/sources.md#e12)
+Live, generous funding (Modernisation Fund) + strong 2025 spreads (DAM €110/MWh, €168/MWh daily) + a decisive market shift to **financed hybrid platforms**. [E1](research/sources.md#e1) [E12](research/sources.md#e12) [E24](research/sources.md#e24)
 
 ## Biggest risk / open question
-**Can we secure a good grid-connection point and site** under the stricter Order 20/2025 regime (guarantees, operational limitation) before incumbents take the best nodes? — and will **balancing prices hold** as GW of BESS arrive? [E13](research/sources.md#e13) [E11](research/sources.md#e11)
+**Secure a connection-advantaged site** under Order 20/2025, **and** pick the right **grant route** (standalone vs co-located) — they're mutually exclusive for one battery. Plus: will balancing + solar-capture prices hold as capacity scales? [E13](research/sources.md#e13) [E2](research/sources.md#e2) [E3](research/sources.md#e3)
 
 ## Next 3 actions
-1. **Site & grid scouting** — identify 2–3 candidate connection points with headroom; check Transelectrica/DSO capacity.
-2. **Track the standalone scheme** — get the 2026 call terms (opening date, €/MWh scoring, per-project cap). [E2](research/sources.md#e2)
-3. **Line up a route-to-market** — talk to optimisers/traders (the GEN-I/R.Power model) to de-risk merchant revenue. [E9](research/sources.md#e9)
+1. **Site/land/grid scouting** — node with headroom + irradiation + Class III–V land <50 ha (no PUZ). [E27](research/sources.md#e27)
+2. **Choose grant route** — model standalone-battery vs co-located behind-the-meter; confirm eligibility for new-build solar. [E2](research/sources.md#e2) [E3](research/sources.md#e3)
+3. **EPC + optimiser indications** — hybrid EPC quote (AC vs DC coupling) and a trading/offtake/floor offer. [E9](research/sources.md#e9) [E28](research/sources.md#e28)

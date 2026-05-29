@@ -43,3 +43,19 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e20"></a>**E20.** DNV — Why Romania is emerging as a prime battery storage market in Europe — https://www.dnv.com/article/why-romania-is-emerging-as-a-prime-battery-storage-market-in-europe/ — *verified 2026-05*
 
 <a id="e21"></a>**E21.** Montel — what causes negative prices in CEE energy markets (solar/wind + network constraints) — https://montel.energy/resources/blog/what-causes-negative-prices-in-cee-energy-markets — *verified 2026-05*
+
+<a id="e22"></a>**E22.** Wikipedia — Solar power in Romania (GHI Dobrogea/Oltenia ~1,450–1,750 kWh/m²/yr; specific yield ~1,200–1,400 kWh/kWp/yr) — https://en.wikipedia.org/wiki/Solar_power_in_Romania — *verified 2026-05*
+
+<a id="e23"></a>**E23.** Voice of Renewables — Romania's solar & storage outlook 2026: the rise of hybrid assets (better capture prices, curtailment protection, self-curtail during negative prices) — https://voiceofrenewables.com/romanias-solar-storage-outlook-for-2026-clarity-discipline-and-the-rise-of-hybrid-assets/ — *verified 2026-05*
+
+<a id="e24"></a>**E24.** Megaproject — Romania solar-plus-storage shifts to financed hybrid platforms (Gârla Mare 2: 126 MWp solar + 200 MWh BESS, €90M Raiffeisen, COD early 2027) — https://www.megaproject.com/news/powerplant/romania-solar-plus-storage-m-a-moves-toward-financed-hybrid-platforms — *verified 2026-05*
+
+<a id="e25"></a>**E25.** Energynomics — Guidelines on developing a solar project in Romania — https://www.energynomics.ro/en/guidelines-on-developing-a-solar-project-in-romania/ — *verified 2026-05*
+
+<a id="e26"></a>**E26.** econet-romania — ANRE Order 6/2025 licensing/permitting regulation (≤1 MW exempt; >1 MW setting-up authorization) — https://econet-romania.com/news/anre-implements-new-regulation-concerning-licensing-and-permitting-in-the-electricity-sector/ — *verified 2026-05*
+
+<a id="e27"></a>**E27.** Pavel, Mărgărit & Asociații — PLx 255/2025 + land use: Class I–III ag land needs conversion; <50 ha on Class III/IV/V extra-muros skips PUZ; MADR Order 4/2025 agrivoltaic grassland dual-use — https://www.avocatpavel.com/plx-255-2025-new-facilities-for-green-energy-projects-in-romania-simplified-authorization-and-expanded-land-use-in-romania/ — *verified 2026-05*
+
+<a id="e28"></a>**E28.** Energy-Storage.News — DC-coupling solar-plus-storage: clipping recovery (~5% more capture at 1.5:1 DC/AC), shared grid-connection cost savings — https://www.energy-storage.news/dc-coupling-a-more-effective-way-to-meet-the-peak-with-solar-plus-storage/ — *verified 2026-05*
+
+<a id="e29"></a>**E29.** Solar Data Atlas — Europe solar CAPEX by country (utility/commercial/residential), Q1 2026 — https://www.solardataatlas.com/en/data-solar-capex-europe — *verified 2026-05 — [TODO: confirm Romania €/kWp]*

@@ -13,7 +13,7 @@ One folder per concrete venture. **This pass only scaffolds** — deep research 
 
 | # | Slug | Venture | Type | Status | Notable angles to research |
 |---|------|---------|------|--------|----------------------------|
-| 1 | [`energy-storage`](energy-storage/) | Battery energy storage in strategic locations | Commercial | 🟦 **v1 deep-dive drafted** | ANRE licensing, grid connection (Transelectrica/DSO), Modernisation Fund, siting |
+| 1 | [`energy-storage`](energy-storage/) | Battery storage + co-located solar (hybrid) | Commercial | 🟦 **v2 hybrid deep-dive** | ANRE licensing, grid connection, Modernisation Fund (standalone & co-located), solar land/permits, siting |
 | 2 | `agriculture-irrigation` | Irrigation + infra to produce/process agri products | Commercial | ⬜ not started | APIA/AFIR funding, ANSVSA food safety, water rights, land |
 | 3 | `kids-social-app` | Social media app for children (nonprofit) | NGO | ⬜ not started | NGO form (court registration), GDPR children's data, safeguarding |
 | 4 | `dyslexia-learning-app` | Learning app for children with dyslexia | Commercial or NGO | ⬜ not started | Pedagogy/evidence base, GDPR children's data, accessibility |

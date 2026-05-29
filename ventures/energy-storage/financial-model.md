@@ -1,52 +1,57 @@
-# Financial Model (illustrative) — 50 MW / 100 MWh BESS
+# Financial Model (illustrative) — Hybrid: 50 MW / 100 MWh BESS + 10 MWp solar
 
-> ⚠️ **Orders of magnitude, not a pro forma.** Every figure is an **ASSUMPTION to verify** with an EPC quote, an optimiser's revenue stack, and a debt term sheet. Verified market inputs 2026-05; [E#] → [sources](research/sources.md). Romanian tax from [taxation](../../knowledge/taxation.md).
+> ⚠️ **Orders of magnitude, not a pro forma.** Every figure is an **ASSUMPTION to verify** with EPC quotes, an optimiser's revenue stack, and a debt term sheet. Market inputs verified 2026-05; [E#] → [sources](research/sources.md). Romanian tax from [taxation](../../knowledge/taxation.md).
 
 ## Configuration
-- **50 MW / 100 MWh** (2-hour) standalone LFP, single SPV (SRL).
+- **Battery:** 50 MW / 100 MWh (2-hour) LFP.
+- **Solar:** ~10 MWp co-located, **AC-coupled**, sharing one grid connection. [E28](research/sources.md#e28)
 
 ## CAPEX
 | Item | Basis | Estimate |
 |------|-------|----------|
-| Installed system cost | Europe 4h LFP ~$180–260/kWh; 2h costs more per kWh → assume **~€280/kWh** | **~€28M** |
-| Range | sensitivity | **€25–35M** |
-
-Sources for unit cost: [E16](research/sources.md#e16) [E17](research/sources.md#e17). *(2h vs 4h, grid works, and land swing this materially — verify.)*
+| Battery system | Europe 4h LFP ~$180–260/kWh; 2h higher per kWh → ~€280/kWh | **~€28M** [E16](research/sources.md#e16) [E17](research/sources.md#e17) |
+| Solar park (10 MWp) | EU utility ~€450–700/kWp | **~€5.5M** [E29](research/sources.md#e29) |
+| Shared connection saving | one connection/substation vs two | **−€0.5–1M** [E28](research/sources.md#e28) |
+| **Combined** | range €30–42M | **~€33M** |
 
 ## Funding stack (illustrative)
 | Source | Assumption | Amount |
 |--------|-----------|--------|
-| Modernisation Fund grant | competitive €/MWh; assume offsets ~30% (cap/▼ vs co-located max €10M) | **~€8M** [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
-| Project debt | ~60% of net CAPEX | **~€12M** |
-| Equity | balance | **~€8M** |
+| Modernisation Fund grant | competitive; battery via **standalone** *or* **co-located** route (not both) | **~€8M** [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
+| Project debt | ~60% of net CAPEX | **~€15M** |
+| Equity | balance | **~€10M** |
 
-> Grant intensity is **the key swing** and is competitive — model a **no-grant** case too. [E2](research/sources.md#e2)
+> The **grant route choice** is strategic: co-located = ≤100% eligible cost but ≥75% solar-absorption rule + €10M cap (constrains arbitrage); standalone = battery free, solar separate. **Model both; verify eligibility.** [E2](research/sources.md#e2) [E3](research/sources.md#e3)
 
-## Revenue (gross, per year)
-| Stream | Share | Basis |
-|--------|-------|-------|
-| Balancing (aFRR/mFRR/FCR) | 60–70% | aFRR €80–150/MW/day etc. [E11](research/sources.md#e11) |
-| Arbitrage (DAM/IDM) | 20–30% | 2025 spread €168/MWh; IDM 200–300 [E12](research/sources.md#e12) |
+## Revenue (gross, per year — year 1, pre-decay)
+| Stream | Basis | Estimate |
+|--------|-------|----------|
+| Battery — balancing (aFRR/mFRR/FCR) | 60–70%; aFRR €80–150/MW/day | part of €4–6M [E11](research/sources.md#e11) |
+| Battery — arbitrage (DAM/IDM) | 20–30%; 2025 spread €168/MWh | part of €4–6M [E12](research/sources.md#e12) |
+| **Battery subtotal** | ~€80–120k/MW/yr (declining) | **€4–6M** |
+| Solar generation | ~13 GWh/yr × captured ~€60–90/MWh | **€0.8–1.2M** [E22](research/sources.md#e22) |
+| **Combined** | | **~€5–7M** |
 
-- Illustrative blended **€80–120k/MW/year** in 2026 → **€4–6M/yr** for 50 MW. **ASSUMPTION.**
-- ⚠️ **Decay:** assume this **falls over time** as GW of BESS saturate balancing markets. Model a declining curve, not a flat line. [E11](research/sources.md#e11)
+⚠️ **Decay:** model balancing **and** solar-capture prices **falling** over time as capacity scales; the battery partly offsets solar cannibalization (charges cheap midday, sells peak). [E11](research/sources.md#e11) [E23](research/sources.md#e23)
 
 ## OPEX (per year)
-O&M + insurance + augmentation reserve + **optimiser fee (~10–20% of revenue)** + grid charges → **~€0.8–1.5M/yr**. **ASSUMPTION.**
+O&M + insurance + augmentation reserve + **optimiser fee (~10–20% of battery revenue)** + grid charges + minimal solar O&M → **~€1.0–1.8M/yr**. **ASSUMPTION.**
 
 ## Tax
 - **CIT 16%** on profit (micro 1% not applicable at this scale). [taxation](../../knowledge/taxation.md)
-- **VAT 21%** recoverable on CAPEX — but creates a **cash-flow timing** gap to manage.
-- Depreciation of the asset shields early profits.
+- **VAT 21%** recoverable on CAPEX — manage the cash-flow timing gap.
+- Asset depreciation shields early profits.
 
 ## Headline (rough)
-- Net CAPEX after grant ≈ **€20M**; equity ≈ **€8M**.
-- EBITDA ≈ revenue − OPEX ≈ **€3–5M/yr** (year 1, pre-decay).
-- → simple payback on **total** net CAPEX ~5–7 yrs; equity returns depend on debt terms + grant + revenue decay. **Verify with a real model.**
+- Net CAPEX after grant ≈ **€25M**; equity ≈ **€10M**.
+- EBITDA ≈ revenue − OPEX ≈ **€3.5–5.5M/yr** (year 1).
+- → simple payback on **total** net CAPEX ~5–7 yrs; equity returns depend on grant route, debt terms and price decay. **Verify with a real model.**
+- **Hybrid upside vs standalone:** cheaper charging, capture-price uplift, shared-connection savings, lower merchant risk → easier financing. [E23](research/sources.md#e23) [E24](research/sources.md#e24)
 
 ## Must-verify before committing
-- [ ] EPC turnkey quote (€/kWh) for 2h vs 4h at the chosen site.
-- [ ] Optimiser revenue projection + fee, ideally a **floor/tolling** offer. [E9](research/sources.md#e9)
-- [ ] Grant clearing €/MWh and per-project cap (2026 call). [E2](research/sources.md#e2)
+- [ ] Hybrid EPC quote (AC vs DC coupling) for battery + 10 MWp solar. [E28](research/sources.md#e28)
+- [ ] Grant route decision + eligibility (standalone vs co-located, new-build solar). [E2](research/sources.md#e2) [E3](research/sources.md#e3)
+- [ ] Optimiser revenue projection + fee + any floor/tolling. [E9](research/sources.md#e9)
 - [ ] Debt term sheet (gearing, rate, tenor).
-- [ ] Balancing-price decay curve 2026–2032.
+- [ ] Balancing-price decay + solar capture-price curves 2026–2032.
+- [ ] Romania solar CAPEX €/kWp and land cost. [E29](research/sources.md#e29)

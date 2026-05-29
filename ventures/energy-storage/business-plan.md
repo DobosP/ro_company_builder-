@@ -3,7 +3,7 @@
 > Draft v1, verified 2026-05. Pairs with [financial-model.md](financial-model.md) and [hard-questions.md](hard-questions.md). [E#] → [sources](research/sources.md).
 
 ## 1. Executive summary
-Develop, own and operate **utility-scale standalone BESS** at grid-strategic Romanian sites, earning from **balancing services + arbitrage**, with **Modernisation Fund grant** support. The scarce asset is a **connected, permitted, sited MW**; the plan is to secure those rights fast and partner for trading/optimisation.
+Develop, own and operate a **hybrid solar-plus-storage** asset at a grid-strategic Romanian site — a 50 MW/100 MWh battery earning from **balancing + arbitrage**, fed by a **~10 MWp co-located solar park** that shares one grid connection. The scarce asset is a **connected, permitted, sited MW**; secure those rights fast, add cheap solar, and partner for trading/optimisation. [E23](research/sources.md#e23) [E24](research/sources.md#e24)
 
 ## 2. Problem & solution
 RES growth → congestion, curtailment, negative prices; the grid needs fast flexibility. BESS provides it. [E20](research/sources.md#e20) [E21](research/sources.md#e21)
@@ -12,7 +12,7 @@ RES growth → congestion, curtailment, negative prices; the grid needs fast fle
 See [market-analysis.md](market-analysis.md). Large headroom to a 1,200–2,000 MW target, but crowded with utilities and international IPPs — compete on **site/grid rights + speed**. [E1](research/sources.md#e1) [E7](research/sources.md#e7) [E8](research/sources.md#e8)
 
 ## 4. Product / configuration
-Base case **50 MW / 100 MWh (2-hour) LFP** standalone system; modular, expandable to 4h. Smallest viable step: one connection point with a valid solution study.
+**Hybrid:** **50 MW / 100 MWh (2-hour) LFP battery + ~10 MWp co-located solar PV**, sharing one grid connection (AC-coupled). Solar provides cheap midday/negative-price charging and a capture-price uplift; the battery firms and time-shifts it. Modular, expandable. Smallest viable step: one connection point with a valid solution study. [E28](research/sources.md#e28)
 
 ## 5. Go-to-market (route-to-market)
 Sign an **optimisation/tolling agreement** with a trader (GEN-I/R.Power model) to convert merchant risk into contracted revenue; participate in Transelectrica balancing + OPCOM markets. [E9](research/sources.md#e9) [E11](research/sources.md#e11)

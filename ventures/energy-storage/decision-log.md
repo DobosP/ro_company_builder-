@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-05-29 — Extend to hybrid: add ~10 MWp co-located solar (rubric 85 → 88/115)
+- **Decision:** evolve from standalone BESS to a **hybrid** — 50 MW/100 MWh battery + ~10 MWp co-located solar sharing one grid connection (AC-coupled).
+- **Why:** the market is shifting to hybrids; co-location improves capture price, gives the battery cheap midday/negative-price charging, and **shares the scarce grid connection** across two revenue streams, easing financing. [E23](research/sources.md#e23) [E24](research/sources.md#e24) [E28](research/sources.md#e28)
+- **Grant nuance (open):** the battery can bid the **standalone** scheme *or* go **co-located behind-the-meter** (≤100% eligible cost, €10M cap, ≥75% solar-absorption) — likely **not both** for the same asset; verify before bidding. [E2](research/sources.md#e2) [E3](research/sources.md#e3)
+- **Rubric impact:** financial viability 3→4 (de-risked, shared connection) → **total 88/115**.
+- **Follow-ups:** land scouting (avoid Class I–III; <50 ha Class III–V skips PUZ); hybrid EPC quote (AC vs DC coupling); confirm grant route. [E27](research/sources.md#e27)
+
+---
+
 ## 2026-05-29 — Initial rubric score: 85/115 ("promising→strong")
 Using [`../../framework/evaluation-rubric.md`](../../framework/evaluation-rubric.md):
 
