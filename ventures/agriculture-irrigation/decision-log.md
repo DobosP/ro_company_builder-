@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Funding-first update: grant €2.8M → integrated IRR 10.5%; processing-first is the bankable path
+- **Integrated** (corrected grant €2.8M = DR-23 65% €2.6M + sM4.1 €0.2M): project IRR **10.5%**, NPV **+€94k** @10%, payback 2034 — clears the hurdle, **but min DSCR still 0.56x** → over-levered (more equity / less debt needed).
+- **Processing-first** (leased, contracted supply, 48% margin, €1.5M equity): IRR **52%**, NPV **+€3.3M**, **min DSCR 2.43x**, payback 2030 — **bankable**. ⚠️ The high IRR is **grant-dependent** (DR-23 covers 65% of CAPEX → small net outlay) and **margin-sensitive** (48% variable-cost assumption). See [finsim-processing-first-report.md](finsim-processing-first-report.md).
+- **Lesson:** **margin + capitalization, not scope, are the levers** — a thin-margin/low-equity build fails DSCR; a lean, well-margined, well-capitalised one is strong.
+- **Added** [funding-application.md](funding-application.md) — full AFIR DR-23 mockup (€2.6M, 65%, scoring). Confirms the **processing-first** entry.
+
+---
+
 ## 2026-05-29 — finsim run: thin and under-capitalised as configured (IRR ~8%, DSCR 0.56x)
 - **Result:** project **IRR ~8.0%**, **NPV −€377k** @10%, **payback 2034**, P&L break-even 2030, **min DSCR 0.56x**, **min cash −€130k** (financing gap) — at €6.3M CAPEX / €2.3M grant / €2.5M debt / €1.5M equity. See [finsim-report.md](finsim-report.md) (`python tools/finsim/run.py ventures/agriculture-irrigation/finsim.json`).
 - **Read:** below the 10% hurdle, and **debt is not serviceable in the ramp** (DSCR 0.56x ≪ a bankable ~1.3x). The deal is **over-levered / under-capitalised** at these assumptions and very sensitive to the **45% variable-cost (margin)** assumption.

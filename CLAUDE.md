@@ -7,7 +7,7 @@ This file orients an AI (or human) contributor. Read it before extending the rep
 `ro_company_builder` is a **docs-first knowledge base + methodology** for creating and running ventures in **Romania**. It is not (yet) a software project — software tools are deferred and tracked in [`tools/README.md`](tools/README.md).
 
 Two reusable pillars + per-venture workspaces:
-- [`framework/`](framework/) — the methodology ("ask the hard questions").
+- [`framework/`](framework/) — the methodology ("ask the hard questions") + the **[EU funding playbook](framework/eu-funding-playbook.md)** (the project's core funding lens).
 - [`knowledge/`](knowledge/) — verified Romania-specific facts ("common info").
 - [`templates/`](templates/) — fill-in artifacts reused by every venture.
 - [`ventures/`](ventures/) — one folder per concrete venture (copy [`_template/`](ventures/_template/)).

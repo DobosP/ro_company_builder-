@@ -38,7 +38,9 @@ Variable ≈ **45% of revenue** (seeds, inputs, packaging, raw material); fixed 
 - Local/property tax on the processing building (ANEVAR value) — add to opex. [taxation](../../knowledge/taxation.md)
 
 ## Headline
-See the generated [finsim-report.md](finsim-report.md). Expect a **grant-dependent, thin-margin** profile where APIA + AFIR shift the payback materially — the decision hinges on **crop margins, water reliability and grant intensity**.
+- **Integrated** (grant €2.8M): IRR **10.5%**, NPV +€94k @10%, payback 2034 — clears the hurdle but **min DSCR 0.56x** (over-levered). See [finsim-report.md](finsim-report.md).
+- **Processing-first** (leased, 48% margin, €1.5M equity): IRR **52%**, NPV +€3.3M, **min DSCR 2.43x** — **bankable**, but grant- and margin-dependent. See [finsim-processing-first-report.md](finsim-processing-first-report.md).
+- Full grant dossier: [funding-application.md](funding-application.md). The decision hinges on **margin, capitalization and grant intensity**.
 
 ## Must-verify before committing
 - [ ] Crop + processing **gross margins** (the 45% variable assumption).

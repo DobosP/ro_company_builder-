@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-05-29 — Grant corrected to €6.0M (scheme cap) → IRR 4.1%; + funding-application mockup
+- **Correction:** the earlier €8M grant exceeded the scheme cap. The Modernisation Fund pays **≤€69k/MWh** → a 100 MWh battery maxes at ~€6.9M; a competitive **€60k/MWh bid = €6.0M**. [E41](research/sources.md#e41)
+- **Updated finsim:** IRR **4.1%**, NPV **−€5.8M** @10%, payback 2036, min DSCR 1.00x — **clearly sub-hurdle**. Leans even harder on a keener **€/MWh bid**, a **revenue floor (tolling)** and **cheaper debt**.
+- **Added** [funding-application.md](funding-application.md) — full Modernisation Fund standalone-storage mockup. (Supersedes the 5.7% figure below, which used the too-high €8M grant.)
+
+---
+
 ## 2026-05-29 — finsim run: hybrid is marginal at base assumptions (IRR ~5.7%)
 - **Result:** project **IRR ~5.7%**, **NPV −€3.9M** at a 10% hurdle, **payback 2035**, **min DSCR 1.00x** (tight), at the illustrative €34.4M CAPEX / €8M grant / €15M debt. See [finsim-report.md](finsim-report.md) (`python tools/finsim/run.py ventures/energy-storage/finsim.json`).
 - **Read:** below a 10% equity hurdle → the deal needs a **bigger grant** (the scheme allows up to €69k/MWh, cap €15M), **cheaper debt**, or a **revenue floor** (tolling) so balancing income doesn't decay. Min DSCR 1.00x means the debt is sized to the limit.

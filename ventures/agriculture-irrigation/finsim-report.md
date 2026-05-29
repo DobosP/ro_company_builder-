@@ -4,13 +4,13 @@
 
 ## Headline metrics
 - **Tax regime:** CIT (auto)
-- **NPV** @ 10.0% (project FCF): **-377k EUR**
-- **IRR** (project): **8.0%**
+- **NPV** @ 10.0% (project FCF): **94k EUR**
+- **IRR** (project): **10.5%**
 - **Payback** (cumulative FCF ≥ 0): **2034**
 - **P&L break-even** (net profit > 0): **2030**
-- **Min cash balance:** -130k EUR  ⚠️ financing gap
+- **Min cash balance:** 370k EUR
 - **Min DSCR:** 0.56x
-- **Total CAPEX / grant / equity:** 6.30M / 2.30M / 1.50M EUR
+- **Total CAPEX / grant / equity:** 6.30M / 2.80M / 1.50M EUR
 
 ## Year-by-year
 | Line (EUR) | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 |
@@ -18,14 +18,14 @@
 | Revenue | 2.65M | 2.83M | 3.02M | 3.23M | 3.45M | 3.68M | 3.94M | 4.22M | 4.51M | 4.83M |
 | OPEX | 2.51M | 2.59M | 2.68M | 2.77M | 2.87M | 2.98M | 3.10M | 3.22M | 3.35M | 3.50M |
 | EBITDA | 135k | 233k | 339k | 452k | 573k | 704k | 845k | 996k | 1.16M | 1.33M |
-| Depreciation | 250k | 250k | 250k | 250k | 250k | 250k | 250k | 250k | 250k | 250k |
+| Depreciation | 219k | 219k | 219k | 219k | 219k | 219k | 219k | 219k | 219k | 219k |
 | Interest | 0 | 175k | 158k | 140k | 120k | 99k | 77k | 53k | 27k | 0 |
-| Tax | 0 | 0 | 0 | 0 | 0 | 39k | 83k | 111k | 141k | 174k |
-| Net profit | -114k | -191k | -69k | 62k | 203k | 316k | 435k | 583k | 741k | 912k |
-| Project FCF | -3.86M | 233k | 339k | 452k | 573k | 665k | 762k | 885k | 1.02M | 1.16M |
-| Cash balance | 135k | -50k | -130k | -97k | 58k | 304k | 647k | 1.11M | 1.71M | 2.87M |
-| DSCR | – | 0.56x | 0.81x | 1.08x | 1.37x | 1.59x | 1.82x | 2.11x | 2.43x | – |
-| Dividends (net) | 0 | 0 | 0 | 16k | 51k | 80k | 110k | 147k | 187k | 230k |
+| Tax | 0 | 0 | 0 | 0 | 8k | 62k | 88k | 116k | 146k | 179k |
+| Net profit | -83k | -160k | -38k | 93k | 227k | 325k | 462k | 609k | 767k | 938k |
+| Project FCF | -3.36M | 233k | 339k | 452k | 566k | 642k | 757k | 880k | 1.01M | 1.16M |
+| Cash balance | 635k | 450k | 370k | 403k | 550k | 774k | 1.11M | 1.57M | 2.17M | 3.32M |
+| DSCR | – | 0.56x | 0.81x | 1.08x | 1.35x | 1.53x | 1.81x | 2.10x | 2.42x | – |
+| Dividends (net) | 0 | 0 | 0 | 24k | 57k | 82k | 116k | 153k | 193k | 236k |
 
 ## Caveats
 - Amounts exclude VAT (assumed pass-through; CAPEX VAT recoverable with a timing lag).

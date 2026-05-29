@@ -11,7 +11,8 @@
 - [compliance-checklist.md](compliance-checklist.md) — APIA / AFIR / ANSVSA / Apele Române
 - [risk-register.md](risk-register.md)
 - [decision-log.md](decision-log.md)
-- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) — simulator config & generated projection
+- [**funding-application.md**](funding-application.md) — mockup full AFIR DR-23 grant dossier
+- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) + [processing-first scenario](finsim-processing-first-report.md)
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 
 ## Snapshot

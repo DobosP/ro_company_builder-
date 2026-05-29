@@ -2,6 +2,8 @@
 
 > ⚠️ **Verified 2026-05; funding windows and figures move — confirm on the official portals before relying on them.** Sources: [`sources.md`](sources.md).
 
+> 🧭 For the **funding-first method** + instrument application mechanics (intensity, caps, scoring) and worked mockups, see the [EU Funding Playbook](../framework/eu-funding-playbook.md).
+
 ## ⏰ Timing matters most
 - **PNRR is closing.** Romania's revised **PNRR** totals **€21.4B** (€13.6B grants + €7.8B loans), approved by the EC on **13 Nov 2025** (down from €28.5B). But **all milestones/targets are due by August 2026** and EC payments by 31 Dec 2026 — so for a venture starting *now*, PNRR is largely **not a new-applicant channel**. [[S10]](sources.md#s10) [[S11]](sources.md#s11) [[S12]](sources.md#s12)
   - ~€10.77B had been disbursed by late 2025; ~**€6.3B of projects are at risk** of missing the deadline. [[S12]](sources.md#s12)

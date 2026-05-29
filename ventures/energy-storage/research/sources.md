@@ -81,3 +81,5 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e39"></a>**E39.** S&P Global Commodity Insights — "Eaten Alive: Solar cannibalization in Europe" (~30% cannibalization risk by 2030 in saturated markets) — https://www.spglobal.com/commodity-insights/en/research-analytics/eaten-alive-solar-cannibalization-in-europe — *verified 2026-05*
 
 <a id="e40"></a>**E40.** PBS Worldwide / INSSE — Romania farmland **~€8,000–9,000/ha** (2025); regional variation (Bucharest-Ilfov ~€12k, West ~€9k, SE/SW ~€8–8.5k) — https://www.pbsworldwide.com/real-estate/how-much-does-farmland-cost-romania-2025 — *verified 2026-05*
+
+<a id="e41"></a>**E41.** ESS-News / oportunitati-ue / MLex — Modernisation Fund standalone storage scheme application: **up to 100%** of investment cost (operating excluded), **≤€10M/company** (multiple bids allowed), select on **€/MWh**, submit via **MySMIS2021**; guide/timeline on energie.gov.ro — https://oportunitati-ue.gov.ro/en/ministerul-energiei-anunta-lansarea-unui-nou-apel-de-150-de-milioane-de-euro-pentru-investitii-in-stocare-in-baterii/ — *verified 2026-05*

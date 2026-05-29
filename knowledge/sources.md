@@ -65,3 +65,9 @@ Dated sources backing the facts in this knowledge base. Re-verify before acting;
 <a id="s28"></a>**S28.** Govnet / REI Finance Advisors — Romania to receive ~**€100B** in EU funds 2021–27 (incl. agriculture/CAP) — https://www.govnet.ro/General/Economics/REI-Finance-Advisors-analysis-Romania-to-get-EUR-100-bln.-of-EU-funds-in-the-financial-program-2021-2027-three-times-more-than-between-2014-2020-Agriculture-and-sustainable-development-programs-one-third-of-the-total-budget-available — *verified 2026-05*
 
 <a id="s29"></a>**S29.** EU CAP Network / oportunitati-ue — Romania **CAP Strategic Plan (PNS) 2023–27 = €15.83B** (APIA Pillar I direct payments + AFIR Pillar II rural development) — https://eu-cap-network.ec.europa.eu/publications/cap-strategic-plan-factsheet-romania_en — *verified 2026-05*
+
+<a id="s30"></a>**S30.** Fundwiser / European Commission — how EU grants work: eligible costs (incurred & necessary), equipment via depreciation in cost-reimbursement programmes, flat-rate indirect costs, co-financing, KPIs — https://fundwiser.eu/resources/how-to-write-eu-grant-proposal/ — *verified 2026-05*
+
+<a id="s31"></a>**S31.** ESS-News / oportunitati-ue / MLex — Modernisation Fund standalone storage scheme: **up to 100%** of investment cost, **≤€10M/company**, **≤€69k/MWh**, selection on **€/MWh**, submitted via **MySMIS2021**; call announced on energie.gov.ro — https://www.ess-news.com/2026/03/09/european-commission-approves-romanias-battery-storage-subsidy-scheme/ — *verified 2026-05*
+
+<a id="s32"></a>**S32.** AFIR — DR-23 Applicant Guide (processing of agri products): **65%** intensity, **≤€3M** (≤€10M bakery), €164,929,100 pot, session **15 Dec 2025–16 Feb 2026**, scoring (priority sector, environment ≤25 [energy ≤12 + digital ≤13], co-ops +5) — https://www.afir.ro/comunicate/publicare-ghidul-solicitantului-dr-23/ — *verified 2026-05*

@@ -25,3 +25,9 @@ Venture-specific sources. Reusable Romania facts → [`../../../knowledge/source
 <a id="a11"></a>**A11.** Agroberichten Buitenland — Romania 2025 crop production: maize **1.97M ha** (EU #1 area); larger farms far more likely to irrigate — https://www.agroberichtenbuitenland.nl/actueel/nieuws/2026/04/15/romanias-2025-crop-production-in-figures — *verified 2026-05*
 
 <a id="a12"></a>**A12.** stiripesurse / EPRS — PNRR water/soil management (irrigation & drainage rehab) included, but **~€3B intended for irrigation was excluded** from the revised plan → funding shifts to CAP + state budget — https://www.stiripesurse.ro/pm-ciolacu-says-romania-has-no-problem-in-terms-of-food-security-investments-in-irrigation-systems-must-be-continued_3389851.html — *verified 2026-05*
+
+<a id="a13"></a>**A13.** AFIR — DR-23 Applicant Guide (processing & marketing of agri products): **65%** intensity, **≤€3M** (≤€10M bakery), €164,929,100 pot, session **15 Dec 2025–16 Feb 2026**; scoring: priority sector, environment ≤25 (energy ≤12 + digital ≤13), co-ops +5 — https://www.afir.ro/comunicate/publicare-ghidul-solicitantului-dr-23/ — *verified 2026-05*
+
+<a id="a14"></a>**A14.** Revista Ferma / AFIR — on-farm irrigation (sM4.1): **50%** non-reimbursable, **≤€200k/beneficiary**, +20% top-up (combined ≤90%); state also covers ~50% of irrigation electricity (ANIF) — https://revista-ferma.ro/bani-pentru-irigatii-50-fonduri-nerambursabile/ — *verified 2026-05*
+
+<a id="a15"></a>**A15.** AFIR — DR-12 young farmers: **≤€200k/project**, intensity **80%** (≤40y) / 65% (41–45), 3-yr implementation, €169.5M pot — https://www.afir.ro/ — *verified 2026-05*

@@ -4,13 +4,13 @@
 
 ## Headline metrics
 - **Tax regime:** CIT
-- **NPV** @ 10.0% (project FCF): **-3.92M EUR**
-- **IRR** (project): **5.7%**
-- **Payback** (cumulative FCF ≥ 0): **2035**
+- **NPV** @ 10.0% (project FCF): **-5.78M EUR**
+- **IRR** (project): **4.1%**
+- **Payback** (cumulative FCF ≥ 0): **2036**
 - **P&L break-even** (net profit > 0): **2027**
-- **Min cash balance:** 2.18M EUR
+- **Min cash balance:** 210k EUR
 - **Min DSCR:** 1.00x
-- **Total CAPEX / grant / equity:** 34.40M / 8.00M / 10.00M EUR
+- **Total CAPEX / grant / equity:** 34.40M / 6.00M / 10.00M EUR
 
 ## Year-by-year
 | Line (EUR) | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 |
@@ -18,14 +18,14 @@
 | Revenue | 5.45M | 5.22M | 4.99M | 4.77M | 4.54M | 4.32M | 4.19M | 4.07M | 3.94M | 3.82M | 3.70M | 3.68M |
 | OPEX | 1.66M | 1.62M | 1.59M | 1.56M | 1.52M | 1.49M | 1.47M | 1.45M | 1.43M | 1.42M | 1.40M | 1.39M |
 | EBITDA | 3.79M | 3.60M | 3.40M | 3.21M | 3.02M | 2.83M | 2.72M | 2.62M | 2.51M | 2.41M | 2.30M | 2.29M |
-| Depreciation | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 2.48M | 327k | 327k |
+| Depreciation | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 2.66M | 352k | 352k |
 | Interest | 0 | 1.05M | 948k | 838k | 721k | 596k | 461k | 318k | 164k | 0 | 0 | 0 |
-| Tax | 210k | 11k | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 133k | 313k |
-| Net profit | 1.10M | 59k | -21k | -104k | -179k | -245k | -217k | -178k | -129k | -69k | 1.84M | 1.65M |
-| Project FCF | -22.82M | 3.59M | 3.40M | 3.21M | 3.02M | 2.83M | 2.72M | 2.62M | 2.51M | 2.41M | 2.17M | 1.97M |
-| Cash balance | 2.18M | 3.25M | 4.14M | 4.84M | 5.35M | 5.66M | 5.87M | 5.98M | 5.98M | 8.38M | 10.55M | 12.53M |
+| Tax | 180k | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 180k |
+| Net profit | 947k | -117k | -208k | -292k | -367k | -433k | -404k | -366k | -317k | -257k | 1.95M | 1.75M |
+| Project FCF | -24.79M | 3.60M | 3.40M | 3.21M | 3.02M | 2.83M | 2.72M | 2.62M | 2.51M | 2.41M | 2.30M | 2.11M |
+| Cash balance | 210k | 1.30M | 2.19M | 2.88M | 3.39M | 3.71M | 3.91M | 4.02M | 4.02M | 6.42M | 8.73M | 10.83M |
 | DSCR | – | 1.43x | 1.35x | 1.28x | 1.20x | 1.13x | 1.08x | 1.04x | 1.00x | – | – | – |
-| Dividends (net) | 464k | 25k | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 774k | 691k |
+| Dividends (net) | 398k | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 820k | 737k |
 
 ## Caveats
 - Amounts exclude VAT (assumed pass-through; CAPEX VAT recoverable with a timing lag).

@@ -28,8 +28,8 @@
     {"name": "Land (200 ha @ ~8.5k)", "amount": 1700000, "year": 2027, "depreciation_years": 0}
   ],
   "grants": [
-    {"name": "AFIR DR-23 processing", "amount": 2000000, "year": 2027, "reduces_depreciation_base": true},
-    {"name": "AFIR irrigation subsidy", "amount": 300000, "year": 2027, "reduces_depreciation_base": true}
+    {"name": "AFIR DR-23 processing (65% of EUR 4M, <= EUR 3M cap)", "amount": 2600000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR sM4.1 irrigation (50%, <= EUR 200k)", "amount": 200000, "year": 2027, "reduces_depreciation_base": true}
   ],
   "financing": {
     "equity": 1500000,

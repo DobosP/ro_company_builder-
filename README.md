@@ -10,6 +10,7 @@ Starting a company involves the same recurring questions and the same body of co
 
 - **The reusable methodology** — the questions every venture must answer, the lifecycle every venture passes through, and a rubric to compare ventures. → [`framework/`](framework/)
 - **The reusable Romania knowledge** — how companies are formed, taxed, funded, and regulated here. → [`knowledge/`](knowledge/)
+- **EU funding as a core driver** — many ventures only work with non-dilutive grants, so we scan instruments and *design to score*. → [`framework/eu-funding-playbook.md`](framework/eu-funding-playbook.md)
 
 Each concrete venture then becomes: *copy a template, answer the hard questions, fill in the venture-specific research.*
 
@@ -17,9 +18,9 @@ Each concrete venture then becomes: *copy a template, answer the hard questions,
 
 | Path | What's inside |
 |------|---------------|
-| [`framework/`](framework/) | The methodology: [hard questions](framework/hard-questions.md), [venture lifecycle](framework/venture-lifecycle.md), [evaluation rubric](framework/evaluation-rubric.md) |
+| [`framework/`](framework/) | The methodology: [hard questions](framework/hard-questions.md), [venture lifecycle](framework/venture-lifecycle.md), [evaluation rubric](framework/evaluation-rubric.md), [**EU funding playbook**](framework/eu-funding-playbook.md) |
 | [`knowledge/`](knowledge/) | Verified Romania facts: [formation](knowledge/company-formation.md), [taxation](knowledge/taxation.md), [funding](knowledge/funding-landscape.md), [compliance](knowledge/regulatory-compliance.md), [institutions](knowledge/institutions.md), [glossary](knowledge/glossary.md), [open questions](knowledge/open-questions.md), [sources](knowledge/sources.md) |
-| [`templates/`](templates/) | Fill-in artifacts: venture brief, business plan, financial model, market analysis, compliance checklist, risk register, decision log |
+| [`templates/`](templates/) | Fill-in artifacts: venture brief, business plan, financial model, market analysis, compliance checklist, risk register, decision log, **funding application** |
 | [`ventures/`](ventures/) | One folder per venture (scaffold + [`_template/`](ventures/_template/)). Ventures are added in later sessions. |
 | [`tools/`](tools/) | Software tools. **Built:** [`finsim`](tools/finsim/) — config-driven financial simulator (works across all ventures). Roadmap: report generator, evaluator. |
 

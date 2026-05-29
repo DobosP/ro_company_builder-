@@ -1,0 +1,33 @@
+{
+  "name": "Agri processing-first (leased, contracted supply) — scenario",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 10,
+  "legal_form": "srl",
+  "tax_regime": "auto",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.11},
+  "revenue": [
+    {"name": "Processed products (value-add, branded/contract)", "base": 2400000, "growth": 0.08}
+  ],
+  "costs": {
+    "fixed_opex": 500000,
+    "variable_pct_of_revenue": 0.48,
+    "payroll": [
+      {"role": "Plant operators", "count": 5, "gross_monthly": 4500},
+      {"role": "Plant manager / QA", "count": 1, "gross_monthly": 10000}
+    ]
+  },
+  "capex": [
+    {"name": "Processing line + efficient cold storage", "amount": 4000000, "year": 2027, "depreciation_years": 12}
+  ],
+  "grants": [
+    {"name": "AFIR DR-23 processing (65% of EUR 4M, <= EUR 3M cap)", "amount": 2600000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 1500000,
+    "debt": [{"amount": 1000000, "rate": 0.07, "term_years": 8, "type": "annuity", "draw_year": 2027}]
+  },
+  "dividend_payout": 0.3
+}

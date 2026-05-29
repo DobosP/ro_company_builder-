@@ -25,7 +25,7 @@
     {"name": "Solar park 10 MWp", "amount": 6400000, "year": 2027, "depreciation_years": 15}
   ],
   "grants": [
-    {"name": "Modernisation Fund (standalone, capped EUR 15M / EUR 69k/MWh)", "amount": 8000000, "year": 2027, "reduces_depreciation_base": true}
+    {"name": "Modernisation Fund (standalone; bid EUR 60k/MWh x 100 MWh, under EUR 69k cap / EUR 10M company cap)", "amount": 6000000, "year": 2027, "reduces_depreciation_base": true}
   ],
   "financing": {
     "equity": 10000000,

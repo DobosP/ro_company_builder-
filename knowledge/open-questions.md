@@ -24,6 +24,8 @@
 | R14 | Solar/agri land cost? | Buy **~€8,000–9,000/ha** (2025); lease below DE's €2.7–4.4k/ha/yr | [energy venture](../ventures/energy-storage/) | [E40](../ventures/energy-storage/research/sources.md#e40) |
 | R15 | BESS revenue & decay? | ~**€140/kW/yr** now; **+4 GW** by 2030 will compress aFRR/FCR; solar cannibalization risk **~30% by 2030** in saturated markets | [energy venture](../ventures/energy-storage/) | [E37](../ventures/energy-storage/research/sources.md#e37) [E39](../ventures/energy-storage/research/sources.md#e39) |
 | R16 | CAP / APIA / AFIR funding (venture #2)? | **CAP PNS 2023–27 €15.83B**; APIA ~€250/ha; **AFIR DR-23 processing €164.9M** (Dec 2025), DR-12 €169.5M; irrigation up to ~$540k/farm | [funding-landscape](funding-landscape.md), [agri venture](../ventures/agriculture-irrigation/) | [A3](../ventures/agriculture-irrigation/research/sources.md#a3) [A5](../ventures/agriculture-irrigation/research/sources.md#a5) |
+| R17 | AFIR grant intensity & caps? | **DR-23 65%, ≤€3M** (≤€10M bakery); **sM4.1 irrigation 50%, ≤€200k**; **DR-12 80%/65%, ≤€200k** | [funding playbook](../framework/eu-funding-playbook.md) | [S32](sources.md#s32) |
+| R18 | Modernisation Fund storage grant cap? | **≤100% of CAPEX**, **≤€69k/MWh**, **≤€10M/company**; select on €/MWh (an earlier draft said €15M/project) | [funding playbook](../framework/eu-funding-playbook.md) | [S31](sources.md#s31) |
 
 ## Still open / newly found
 
@@ -36,7 +38,6 @@
 | O5 | Exact Romania **solar lease €/ha/yr** | opex input | local land brokers / MADR Order 13/2025 |
 | O6 | **Property-tax revaluation** impact modelled per venture | asset-heavy opex | ANEVAR valuer + local council rate |
 | O7 | Crop + processing **gross margins** (irrigated veg vs cereals) | agri venture viability (drives finsim) | farm-management data / USAMV studies |
-| O8 | **AFIR grant intensity & cap** (DR-23 processing, irrigation) | size of the funding stack | AFIR applicant guides |
-| O9 | **Water availability / abstraction terms** under drought | the binding enabler for irrigation | Apele Române / ANIF, per county |
+| O8 | **Water availability / abstraction terms** under drought | the binding enabler for irrigation | Apele Române / ANIF, per county |
 
 > Venture-specific open items also live in each venture's `decision-log.md` and research notes.

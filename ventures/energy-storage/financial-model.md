@@ -2,7 +2,7 @@
 
 > ⚠️ **Orders of magnitude, not a pro forma.** Every figure is an **ASSUMPTION to verify** with EPC quotes, an optimiser's revenue stack, and a debt term sheet. Market inputs verified 2026-05; [E#] → [sources](research/sources.md). Romanian tax from [taxation](../../knowledge/taxation.md).
 
-▶ **Run the numbers:** `python tools/finsim/run.py ventures/energy-storage/finsim.json` → [finsim-report.md](finsim-report.md). Headline (illustrative): **IRR ~5.7%, NPV −€3.9M @10%, payback 2035, min DSCR 1.00x** — **marginal**, highly sensitive to grant size, debt terms and revenue decay.
+▶ **Run the numbers:** `python tools/finsim/run.py ventures/energy-storage/finsim.json` → [finsim-report.md](finsim-report.md). Headline (illustrative, €6.0M grant): **IRR ~4.1%, NPV −€5.8M @10%, payback 2036, min DSCR 1.00x** — **sub-hurdle**, highly sensitive to the €/MWh bid, debt terms and revenue decay. Full grant dossier: [funding-application.md](funding-application.md).
 
 ## Configuration
 - **Battery:** 50 MW / 100 MWh (2-hour) LFP.
@@ -19,7 +19,7 @@
 ## Funding stack (illustrative)
 | Source | Assumption | Amount |
 |--------|-----------|--------|
-| Modernisation Fund grant | competitive €/MWh; **standalone** route caps **€15M/project**, up to **€69k/MWh** | **~€8M** [E30](research/sources.md#e30) |
+| Modernisation Fund grant | bid **€60k/MWh** × 100 MWh (≤€69k cap; ≤€10M/company) | **€6.0M** [E41](research/sources.md#e41) |
 | Project debt | ~60% of net CAPEX | **~€15M** |
 | Equity | balance | **~€10M** |
 
