@@ -69,3 +69,15 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e33"></a>**E33.** Scatec — financial close + construction of 190 MW solar in Romania (~€121M ≈ **€637/kWp**) — https://www.scatec.com/en/scatec-reaches-financial-close-and-starts-construction-of-190-mw-solar-in-romania/ — *verified 2026-05*
 
 <a id="e34"></a>**E34.** Romania Insider / Strategic Energy — installed capacity ~**19.6 GW** (Sep 2025); grid-connected solar **3,145 MW** > wind **3,137 MW**; hydro 6,688 MW; ~**60 GW** of grid-connection requests (1,200+ projects) — https://www.romania-insider.com/romania-installed-power-capacity-sept-2025 — *verified 2026-05*
+
+<a id="e35"></a>**E35.** caen-rev3.ro — CAEN Rev. 3 **group 351** confirmed: 3511 non-renewable prod, **3512** renewable prod (solar), 3513 transmission, 3514 distribution, **3515** trading, **3516** storage — https://caen-rev3.ro/grupa/351 — *verified 2026-05*
+
+<a id="e36"></a>**E36.** Energynomics — Transelectrica grid-connection **capacity map** (10 zones A–J); additional transmission headroom ~**10,530 MW** in 2025 → ~11,500 MW 2030 (aggregate per-zone, not per-substation) — https://www.energynomics.ro/en/transelectrica-has-launched-its-grid-connection-capacity-map/ — *verified 2026-05*
+
+<a id="e37"></a>**E37.** European BESS Index / DNV — Romania BESS revenue ~**€140/kW/yr** (2025; aFRR up/down ~€9/MW/h); **+4 GW** storage planned by 2030; balancing-market saturation risk — https://europeanbessindex.com/ — *verified 2026-05*
+
+<a id="e38"></a>**E38.** ScienceDirect — "Economics of utility-scale batteries in Romania under various market conditions" — https://www.sciencedirect.com/science/article/pii/S0957178725000542 — *verified 2026-05*
+
+<a id="e39"></a>**E39.** S&P Global Commodity Insights — "Eaten Alive: Solar cannibalization in Europe" (~30% cannibalization risk by 2030 in saturated markets) — https://www.spglobal.com/commodity-insights/en/research-analytics/eaten-alive-solar-cannibalization-in-europe — *verified 2026-05*
+
+<a id="e40"></a>**E40.** PBS Worldwide / INSSE — Romania farmland **~€8,000–9,000/ha** (2025); regional variation (Bucharest-Ilfov ~€12k, West ~€9k, SE/SW ~€8–8.5k) — https://www.pbsworldwide.com/real-estate/how-much-does-farmland-cost-romania-2025 — *verified 2026-05*

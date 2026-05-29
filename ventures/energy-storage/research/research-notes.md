@@ -6,7 +6,7 @@
 - Romania is one of Europe's most active BESS markets in 2025–26. Roughly **240.7 MW / 404.9 MWh** was operational by mid-May 2026, with a national **2030 target of ~1,200 MW** (NIESC/NECP) and government talk of **~2,000 MW by end-2026**. [E1](sources.md#e1) [E5](sources.md#e5)
 - Driver: a fast solar/wind build-out is creating **grid congestion, curtailment, and negative prices** — exactly the conditions that make storage (shifting energy and selling flexibility) valuable. [E20](sources.md#e20) [E21](sources.md#e21)
 - 2025 wholesale signal: OPCOM **day-ahead average ≈ €110/MWh**, **max daily spread ≈ €168/MWh**, intraday spreads **200–300 €/MWh** — strong arbitrage and balancing economics. [E12](sources.md#e12)
-- **Grid context:** Romania's installed capacity ~**19.6 GW** (Sep 2025); grid-connected solar **3,145 MW** just passed wind (3,137 MW); hydro 6,688 MW. Critically, **~60 GW of projects have requested grid connection** (1,200+) — so **connection headroom, not capital, is the scarce resource**. [E34](sources.md#e34)
+- **Grid context:** Romania's installed capacity ~**19.6 GW** (Sep 2025); grid-connected solar **3,145 MW** just passed wind (3,137 MW); hydro 6,688 MW. Critically, **~60 GW of projects have requested grid connection** (1,200+) — so **connection headroom, not capital, is the scarce resource**. [E34](sources.md#e34) Transelectrica's **interactive capacity map** (10 zones A–J) shows only ~**10,530 MW** of additional transmission headroom in 2025 (→11,500 MW by 2030) — far below requests. [E36](sources.md#e36)
 
 ## 2. Funding — a major tailwind (and the live opportunity)
 - **Modernisation Fund** is the engine: ~**€300M** earmarked for BESS across two €150M tranches. [E1](sources.md#e1)
@@ -24,14 +24,15 @@
 - Guarantee stack (indicative): **€20,000/MW** capacity-allocation + **€30,000/MW** establishment-authorization + **20% of the connection tariff**. [E13](sources.md#e13)
 - **Order 27/2025**: standalone storage operators are **"assimilated to producers."** **Order 79/2025**: revised capacity-allocation methodology/auctions. [E15](sources.md#e15)
 - End-to-end permits: **grid connection (ATR/ATR certificate) → ANRE establishment authorization → building permit → ANRE operating licence**, plus environmental sign-off. [E13](sources.md#e13)
-- **CAEN Rev. 3:** **3516** storage, **3514** trading, **3511** production (renewable sub-code TBC). [E31](sources.md#e31)
-- **ANRE fees:** annual contribution **0.1%** of turnover; establishment-authorization modification fee 2,500 lei + 0.1% of remaining investment; full licence/authorization tariff schedule in **Order 93/2024**. [E32](sources.md#e32)
+- **CAEN Rev. 3 (group 351):** **3512** renewable production (solar), **3516** storage, **3515** trading — full group confirmed (3511 non-ren, 3513 transmission, 3514 distribution). [E35](sources.md#e35)
+- **ANRE fees:** annual **0.1%** of turnover (**7,500 lei/yr** for a newly licensed entity); authorization-modification fee 2,500 lei + 0.1% of remaining investment; one-off grant tariffs in **Order 93/2024** Table 1. [E32](sources.md#e32)
 
 ## 4. Revenue stack
 - **Balancing services ≈ 60–70%** of BESS revenue (procured by **Transelectrica** to hold 50 Hz): **aFRR €80–150/MW/day**, **mFRR €30–60/MW/day**, **FCR €40–80/MW/day** (capacity + activated energy). [E11](sources.md#e11)
 - **Energy arbitrage ≈ 20–30%** on **OPCOM DAM** (hourly, gate closure 12:00) and **IDM** (continuous, to 5 min before delivery; volatile, larger spreads). [E11](sources.md#e11) [E12](sources.md#e12)
 - Route-to-market matters: developers commonly sign **optimisation/tolling agreements** with traders (e.g. GEN-I optimising R.Power's Scornicești). This converts merchant risk into contracted revenue. [E9](sources.md#e9)
 - ⚠️ **Saturation risk:** balancing markets are finite — as GW of BESS arrive, aFRR/FCR prices compress. Today's revenue assumptions will erode; model conservatively.
+- **Quantified:** RO BESS earns ~**€140/kW/yr** in 2025 (aFRR up/down ~€9/MW/h), but **+4 GW** of storage is planned by 2030 and EU solar **cannibalization risk reaches ~30%** by 2030 — model a **declining** curve with a contracted floor. [E37](sources.md#e37) [E38](sources.md#e38) [E39](sources.md#e39)
 
 ## 5. Competitive landscape (crowded, well-capitalised)
 - **Nova Power & Gas** — **200 MW / 400 MWh** operational (Florești, Cluj), largest to date. [E8](sources.md#e8)
@@ -52,17 +53,17 @@
 The market is **shifting from standalone to hybrid** (solar + BESS): pure-merchant solar and pure-merchant storage both carry more risk, while hybrids get **better capture prices, curtailment protection, and grid-integration value**, and storage lets the plant **self-curtail during negative prices** and dispatch when profitable. [E23](sources.md#e23) Romania is becoming a "storage-led solar market" where financed hybrid platforms attract more capital than standalone development. [E24](sources.md#e24) Example: **Gârla Mare 2** — 126 MWp solar + 200 MWh BESS, €90M Raiffeisen financing, COD early 2027. [E24](sources.md#e24)
 
 - **Solar resource (south RO):** GHI in Dobrogea/Oltenia ~1,450–1,750 kWh/m²/yr; **specific yield ~1,200–1,400 kWh/kWp/yr** (a N Dobrogea case ~1,625). [E22](sources.md#e22) → a 10 MWp park ≈ **~13 GWh/yr**.
-- **Solar CAPEX:** EU utility-scale ~**€450–700/kWp** → ~€5–7M for 10 MWp (*confirm Romania specifics*). [E29](sources.md#e29)
+- **Solar CAPEX:** ~**€637/kWp** confirmed (Scatec 190 MW, RO) → ~€6.4M for 10 MWp. [E33](sources.md#e33) **Land:** agri land **~€8,000–9,000/ha** to buy (lease lower); ~10 MWp needs ~12–15 ha. [E40](sources.md#e40)
 - **Coupling:** a small solar park beside a large battery is typically **AC-coupled**, sharing the connection point/substation — saving AC switchgear, MV transformers, trenching. **DC-coupling** (oversized PV behind one inverter) recovers clipped energy (~5% more capture at 1.5:1 DC/AC) but suits tighter PV:battery ratios. [E28](sources.md#e28)
 - **Solar permits/licensing:** >1 MW needs an **ANRE setting-up authorization** (Order 6/2025; ≤1 MW exempt). [E26](sources.md#e26) **Land:** high-fertility Class I–III ag land needs Ministry-of-Agriculture conversion; projects **<50 ha on Class III/IV/V extra-muros** land skip the PUZ; **MADR Order 4/2025** allows agrivoltaic grassland dual-use; PLx 255/2025 simplifies authorization. [E27](sources.md#e27) [E25](sources.md#e25)
 - **⚠️ Grant-route nuance:** the **co-located behind-the-meter** storage grant requires the battery to **absorb ≥75% of the RES plant's energy** (≤100% eligible cost, €10M/enterprise cap) [E3](sources.md#e3) — which constrains grid-charging/arbitrage. The **standalone** scheme keeps the battery free, with the solar as a separate asset sharing the connection. **Pick one route per asset and verify eligibility.** [E2](sources.md#e2)
 
 ## 8. Open research tasks
-- [x] **CAEN Rev. 3:** 3516 storage / 3514 trading / 3511 production — *renewable-production sub-code still TBC*. [E31](sources.md#e31)
-- [x] **ANRE fees:** 0.1% annual contribution + Order 93/2024 schedule; *exact licence-grant € still TBC*. [E32](sources.md#e32)
-- [x] **Standalone scheme:** Q2 2026 call, €15M/project cap, ≤€69k/MWh; *co-located-vs-standalone eligibility for new solar still TBC*. [E30](sources.md#e30)
-- [x] **Solar CAPEX:** ~€637/kWp [E33](sources.md#e33); *land shortlist (Class III–V, <50 ha) still open*. [E27](sources.md#e27)
-- [ ] **Grid-connection headroom by node** (Transelectrica/DSO maps) — ~60 GW requested vs ~19.6 GW installed. [E34](sources.md#e34)
-- [ ] **Balancing-price decay** + solar **capture-price** curves 2026–2032.
+- [x] **CAEN Rev. 3:** 3512 solar production / 3516 storage / 3515 trading (group 351 confirmed). [E35](sources.md#e35)
+- [x] **ANRE fees:** 0.1% annual + 7,500 lei/yr new licence; *exact one-off grant tariff (Order 93/2024 Table 1) still TBC*. [E32](sources.md#e32)
+- [x] **Standalone scheme:** Q2 2026 call, €15M/project cap, ≤€69k/MWh; *co-located-vs-standalone treatment of new solar still TBC*. [E30](sources.md#e30)
+- [x] **Solar CAPEX & land:** ~€637/kWp [E33](sources.md#e33); agri land ~€8–9k/ha [E40](sources.md#e40); *land shortlist (Class III–V, <50 ha) still open*. [E27](sources.md#e27)
+- [x] **Grid headroom:** Transelectrica map, 10 zones, ~10,530 MW available 2025; *per-substation precision still TBC*. [E36](sources.md#e36)
+- [x] **Revenue/decay:** ~€140/kW/yr now, compressing toward 2030; *year-by-year curve needs a paid analyst model*. [E37](sources.md#e37) [E39](sources.md#e39)
 
 > Project-wide verification register: [`../../../knowledge/open-questions.md`](../../../knowledge/open-questions.md).

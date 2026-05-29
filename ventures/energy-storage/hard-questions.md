@@ -13,7 +13,7 @@ Fast solar/wind growth outpaces grid flexibility → **congestion, curtailment, 
 
 ## 3. Legal structure
 - **SRL** per-site **SPV**; **CIT 16%** (micro irrelevant at scale). [taxation](../../knowledge/taxation.md)
-- **CAEN Rev. 3:** **3516** (storage) + **3514** (trading) + **3511** (production; renewable sub-code TBC). [E31](research/sources.md#e31)
+- **CAEN Rev. 3:** **3512** (renewable production/solar) + **3516** (storage) + **3515** (trading). [E35](research/sources.md#e35)
 
 ## 4. Regulation, permits & licensing
 - **Storage:** ANRE establishment authorization > 1 MW; ATR grid connection (Order 20/2025: operational limitation + guarantees). [E13](research/sources.md#e13) [E14](research/sources.md#e14)
