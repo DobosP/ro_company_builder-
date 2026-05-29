@@ -11,6 +11,14 @@
   - ~€7.3B ESF+ (employment, education, skills); ~€7.2B Cohesion Fund + ERDF (transport). [[S13]](sources.md#s13)
   - Absorption was only ~17% by mid-2025 → significant funds remain to be deployed. [[S13]](sources.md#s13)
 
+### Main operational programmes (2021–27)
+Live calls sit under named programmes (all via [`oportunitati-ue.gov.ro`](https://oportunitati-ue.gov.ro)):
+- **POCIDIF** — Smart Growth, Digitalization & Financial Instruments, **~€2.14B** (R&D, digitalization, SMEs). [[S27]](sources.md#s27)
+- **PODD** — Sustainable Development, **~€13.62B** (green energy, environment, water). [[S27]](sources.md#s27)
+- **POTJ** — Just Transition, **~€1.77B** (coal-region transition: Gorj, Hunedoara, etc.). [[S27]](sources.md#s27)
+- **POR** — eight **Regional** programmes (SME competitiveness, urban) run by the regional development agencies.
+- Plus sector OPs (transport, health, education) and the CAP for agriculture; Romania's total 2021–27 envelope is estimated at **~€100B** including agriculture. [[S28]](sources.md#s28)
+
 ## Where to find live calls
 - **`oportunitati-ue.gov.ro`** — the government portal listing active calls under each operational programme. [[S11]](sources.md#s11)
 - **MIPE** (Ministry of European Investments and Projects) — the main national managing authority. [[S13]](sources.md#s13) See [institutions.md](institutions.md).

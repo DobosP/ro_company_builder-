@@ -40,5 +40,10 @@ Burden on salaries:
 - An employee's gross splits roughly **65% net / 35% contributions**, before income tax; the **employer adds ~2.25%** on top. [[S15]](sources.md#s15)
 - **CAS** is capped at a ceiling of 24× the minimum wage; **CASS** has no ceiling on employment income. [[S15]](sources.md#s15)
 - **Minimum gross wage 2026:** **RON 4,050/month** until June, **RON 4,325** from July 2026; construction sector **RON 4,582**. [[S16]](sources.md#s16)
+- **Minimum-wage tax relief:** **RON 300/month** exempt from tax & contributions (Jan–Jun 2026), reduced to **RON 200/month** (Jul–Dec 2026), for salaries at the minimum (gross income ≤ RON 4,300 H1 / RON 4,600 H2). [[S26]](sources.md#s26)
+
+## Local & property taxes (2026)
+- **Building tax — non-residential (companies):** the base is now the **market value** from an **ANEVAR** valuation report (no longer accounting value); rate **0.2%–1.3%** set by the local council, with a **+5% penalty** if not revalued within 5 years. [[S25]](sources.md#s25)
+- A broad **2026 increase** in property/local taxes (Emergency Ordinance 7/2026; residential notional values roughly tripled) hits **asset-heavy ventures** (energy, agri, logistics) — budget it as recurring opex. [[S25]](sources.md#s25)
 
 > **Hard-questions tie-in:** §6 (financial viability) — model the gross→net and gross→employer-cost gaps, and pick the right regime.

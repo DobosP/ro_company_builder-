@@ -55,3 +55,11 @@ Dated sources backing the facts in this knowledge base. Re-verify before acting;
 <a id="s23"></a>**S23.** Impozite Online — CASS 2026 on dividends/investment income: threshold 6 min wages (~RON 24,300), 10% of 6/12/24-wage ceiling — https://impoziteonline.ro/blog/cass-2026-ghid-complet — *verified 2026-05*
 
 <a id="s24"></a>**S24.** Mihai Attorneys — Romanian company types 2026 (SRL/SA/PFA/branch): SA min capital **RON 90,000**, ≥2 shareholders, ≥30% paid at incorporation — https://www.mihaiattorneys.com/news-and-insights/types-of-companies-in-romania-in-2026-srl-sa-pfa-branch-which-one-should-you-choose — *verified 2026-05*
+
+<a id="s25"></a>**S25.** Pavel, Mărgărit / Dragne & Asociații — 2026 property & local taxes: non-residential building tax **0.2–1.3%** on **ANEVAR market value**; Emergency Ordinance 7/2026 — https://www.avocatpavel.com/higher-property-and-vehicle-taxes-starting-2026-how-owners-are-affected-in-romania/ — *verified 2026-05*
+
+<a id="s26"></a>**S26.** Link Compliance — Romania 2026 minimum-wage tax relief: RON **300** (H1) → **200** (H2) exempt — https://www.linkcompliance.com/romanias-2026-minimum-wage-tax-relief-what-employers-need-to-know/ — *verified 2026-05*
+
+<a id="s27"></a>**S27.** Omega Consulting / fonduri-structurale.ro — Romania 2021–27 operational programmes: POCIDIF (~€2.14B), PODD (~€13.62B), POTJ (~€1.77B) — https://www.omega-consulting.ro/presentation-of-the-operational-program-for-smart-growth-digitization-and-financial-instruments-pocidif-2021-2027/?lang=en — *verified 2026-05*
+
+<a id="s28"></a>**S28.** Govnet / REI Finance Advisors — Romania to receive ~**€100B** in EU funds 2021–27 (incl. agriculture/CAP) — https://www.govnet.ro/General/Economics/REI-Finance-Advisors-analysis-Romania-to-get-EUR-100-bln.-of-EU-funds-in-the-financial-program-2021-2027-three-times-more-than-between-2014-2020-Agriculture-and-sustainable-development-programs-one-third-of-the-total-budget-available — *verified 2026-05*
