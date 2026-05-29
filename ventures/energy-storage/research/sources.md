@@ -58,4 +58,14 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 
 <a id="e28"></a>**E28.** Energy-Storage.News — DC-coupling solar-plus-storage: clipping recovery (~5% more capture at 1.5:1 DC/AC), shared grid-connection cost savings — https://www.energy-storage.news/dc-coupling-a-more-effective-way-to-meet-the-peak-with-solar-plus-storage/ — *verified 2026-05*
 
-<a id="e29"></a>**E29.** Solar Data Atlas — Europe solar CAPEX by country (utility/commercial/residential), Q1 2026 — https://www.solardataatlas.com/en/data-solar-capex-europe — *verified 2026-05 — [TODO: confirm Romania €/kWp]*
+<a id="e29"></a>**E29.** Solar Data Atlas — Europe solar CAPEX by country (utility/commercial/residential), Q1 2026 — https://www.solardataatlas.com/en/data-solar-capex-europe — *verified 2026-05*
+
+<a id="e30"></a>**E30.** The Diplomat Bucharest — Ministry of Energy €150M storage call: launch **Q2 2026**, €/MWh ranking, cap **€15M/project**, up to **€69,000/MWh**, 2,174 MWh, ≤100% eligible, implement by 31 Dec 2030 — https://www.thediplomat.ro/2025/01/20/ministry-of-energy-launches-150-million-euro-call-for-energy-storage-battery-projects/ — *verified 2026-05*
+
+<a id="e31"></a>**E31.** caencod.ro / ONRC — CAEN Rev. 3: **3516** depozitarea energiei electrice (storage), **3514** comercializarea (trading), **3511** producția (production) — https://caencod.ro/3516-depozitarea-energiei-electrice-rev3 — *verified 2026-05*
+
+<a id="e32"></a>**E32.** ANRE Order 93/2024 (tariffs & contributions 2025; mod. by Order 57/2025): annual contribution **0.1%** of turnover; authorization-modification fee 2,500 lei + 0.1% of remaining investment — https://lege5.ro/gratuit/ge3danzzgq4da/ordinul-nr-93-2024-privind-aprobarea-tarifelor-si-contributiilor-banesti-percepute-de-autoritatea-nationala-de-reglementare-in-domeniul-energiei-in-anul-2025 — *verified 2026-05*
+
+<a id="e33"></a>**E33.** Scatec — financial close + construction of 190 MW solar in Romania (~€121M ≈ **€637/kWp**) — https://www.scatec.com/en/scatec-reaches-financial-close-and-starts-construction-of-190-mw-solar-in-romania/ — *verified 2026-05*
+
+<a id="e34"></a>**E34.** Romania Insider / Strategic Energy — installed capacity ~**19.6 GW** (Sep 2025); grid-connected solar **3,145 MW** > wind **3,137 MW**; hydro 6,688 MW; ~**60 GW** of grid-connection requests (1,200+ projects) — https://www.romania-insider.com/romania-installed-power-capacity-sept-2025 — *verified 2026-05*

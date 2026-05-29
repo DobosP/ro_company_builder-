@@ -10,7 +10,7 @@
 | **Customer / beneficiary** | Transelectrica (balancing); OPCOM wholesale (arbitrage); solar offtaker/PPA; the grid & renewables. |
 | **Solution** | **50 MW / 100 MWh battery + ~10 MWp co-located solar**, sharing one grid connection (AC-coupled). Solar gives cheap midday/negative-price charging + capture-price uplift; the battery firms & time-shifts it. [E28](research/sources.md#e28) |
 | **Legal form (intended)** | **SRL** (per-site SPV); CIT regime — see [formation](../../knowledge/company-formation.md) |
-| **CAEN code(s)** | electricity **production (solar + storage)** + **trading** — *[TODO: verify Rev. 3 codes]* [E15](research/sources.md#e15) [E26](research/sources.md#e26) |
+| **CAEN code(s)** | **3516** storage + **3514** trading + **3511** production (renewable sub-code TBC) [E31](research/sources.md#e31) |
 | **Revenue model** | Battery: balancing ~60–70% + arbitrage ~20–30% [E11](research/sources.md#e11); plus **solar generation** (~13 GWh/yr, merchant/PPA). |
 | **Funding intent** | Equity + debt **+ Modernisation Fund grant** — battery via **standalone** scheme, *or* **co-located** behind-the-meter route (mutually exclusive — verify). [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
 | **Location in RO** | South/SE node (Dobrogea/Oltenia) with grid headroom + good irradiation + Class III–V land. [E22](research/sources.md#e22) [E27](research/sources.md#e27) |

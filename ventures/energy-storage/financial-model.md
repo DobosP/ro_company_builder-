@@ -10,18 +10,18 @@
 | Item | Basis | Estimate |
 |------|-------|----------|
 | Battery system | Europe 4h LFP ~$180–260/kWh; 2h higher per kWh → ~€280/kWh | **~€28M** [E16](research/sources.md#e16) [E17](research/sources.md#e17) |
-| Solar park (10 MWp) | EU utility ~€450–700/kWp | **~€5.5M** [E29](research/sources.md#e29) |
+| Solar park (10 MWp) | RO ~€637/kWp (Scatec 190 MW) | **~€6.4M** [E33](research/sources.md#e33) |
 | Shared connection saving | one connection/substation vs two | **−€0.5–1M** [E28](research/sources.md#e28) |
-| **Combined** | range €30–42M | **~€33M** |
+| **Combined** | range €30–42M | **~€34M** |
 
 ## Funding stack (illustrative)
 | Source | Assumption | Amount |
 |--------|-----------|--------|
-| Modernisation Fund grant | competitive; battery via **standalone** *or* **co-located** route (not both) | **~€8M** [E2](research/sources.md#e2) [E3](research/sources.md#e3) |
+| Modernisation Fund grant | competitive €/MWh; **standalone** route caps **€15M/project**, up to **€69k/MWh** | **~€8M** [E30](research/sources.md#e30) |
 | Project debt | ~60% of net CAPEX | **~€15M** |
 | Equity | balance | **~€10M** |
 
-> The **grant route choice** is strategic: co-located = ≤100% eligible cost but ≥75% solar-absorption rule + €10M cap (constrains arbitrage); standalone = battery free, solar separate. **Model both; verify eligibility.** [E2](research/sources.md#e2) [E3](research/sources.md#e3)
+> The **grant route choice** is strategic: co-located = ≤100% eligible cost but ≥75% solar-absorption rule + €10M cap (constrains arbitrage); standalone = battery free (cap €15M/project, ≤€69k/MWh), solar separate. **Model both; verify eligibility.** [E30](research/sources.md#e30) [E3](research/sources.md#e3)
 
 ## Revenue (gross, per year — year 1, pre-decay)
 | Stream | Basis | Estimate |
@@ -54,4 +54,4 @@ O&M + insurance + augmentation reserve + **optimiser fee (~10–20% of battery r
 - [ ] Optimiser revenue projection + fee + any floor/tolling. [E9](research/sources.md#e9)
 - [ ] Debt term sheet (gearing, rate, tenor).
 - [ ] Balancing-price decay + solar capture-price curves 2026–2032.
-- [ ] Romania solar CAPEX €/kWp and land cost. [E29](research/sources.md#e29)
+- [ ] Solar **land cost €/ha** + lease terms (CAPEX ~€637/kWp now confirmed). [E33](research/sources.md#e33)

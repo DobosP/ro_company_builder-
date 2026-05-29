@@ -3,7 +3,7 @@
 > Hybrid-specific, derived from [research notes](research/research-notes.md) and [`../../knowledge/`](../../knowledge/). Not legal advice — confirm with ANRE / a lawyer. [E#] → [sources](research/sources.md).
 
 ## Formation (ONRC)
-- [ ] SRL (and/or per-site **SPV**) registered; CAEN incl. electricity production (solar + storage) + trading — *[TODO: verify Rev. 3 codes]* [E15](research/sources.md#e15) [E26](research/sources.md#e26)
+- [ ] SRL (and/or per-site **SPV**) registered; CAEN **3516** (storage) + **3514** (trading) + **3511** (production; renewable sub-code TBC) [E31](research/sources.md#e31)
 - [ ] CUI + J-number — see [company-formation](../../knowledge/company-formation.md)
 
 ## Grid connection (the gating step — Order 20/2025)

@@ -6,12 +6,13 @@
 - Romania is one of Europe's most active BESS markets in 2025–26. Roughly **240.7 MW / 404.9 MWh** was operational by mid-May 2026, with a national **2030 target of ~1,200 MW** (NIESC/NECP) and government talk of **~2,000 MW by end-2026**. [E1](sources.md#e1) [E5](sources.md#e5)
 - Driver: a fast solar/wind build-out is creating **grid congestion, curtailment, and negative prices** — exactly the conditions that make storage (shifting energy and selling flexibility) valuable. [E20](sources.md#e20) [E21](sources.md#e21)
 - 2025 wholesale signal: OPCOM **day-ahead average ≈ €110/MWh**, **max daily spread ≈ €168/MWh**, intraday spreads **200–300 €/MWh** — strong arbitrage and balancing economics. [E12](sources.md#e12)
+- **Grid context:** Romania's installed capacity ~**19.6 GW** (Sep 2025); grid-connected solar **3,145 MW** just passed wind (3,137 MW); hydro 6,688 MW. Critically, **~60 GW of projects have requested grid connection** (1,200+) — so **connection headroom, not capital, is the scarce resource**. [E34](sources.md#e34)
 
 ## 2. Funding — a major tailwind (and the live opportunity)
 - **Modernisation Fund** is the engine: ~**€300M** earmarked for BESS across two €150M tranches. [E1](sources.md#e1)
   - **Co-located** (behind existing RES), Nov 2024: €150M, up to **100% of eligible cost**, **max €10M per enterprise**, storage must absorb **≥75%** of the connected plant's energy; bids closed 17 Jan 2025. [E3](sources.md#e3)
   - **Standalone**, ranked solely on **requested aid in €/MWh** (lowest wins). [E4](sources.md#e4)
-- **⭐ Live now:** in **March 2026** the EC approved a **€150M standalone** scheme for **≥2,174 MWh**, financed by the Modernisation Fund under the **CISAF** state-aid framework, **competitive bidding**, aid disbursed **before 31 Dec 2030**. Eligible: micro/SME/large companies **including newly established EU entities** registered with **ONRC** before the first aid payment. *(No call-opening date published yet — monitor the Ministry of Energy / MIPE.)* [E2](sources.md#e2)
+- **⭐ Live now:** in **March 2026** the EC approved a **€150M standalone** scheme for **≥2,174 MWh** (Modernisation Fund, **CISAF**), ranked on **requested aid €/MWh**. The **call launches Q2 2026**, with a **€15M/project** cap, support **up to €69,000/MWh**, ≤100% of eligible cost, projects implemented by **31 Dec 2030**. Eligible: micro/SME/large **incl. newly established EU entities** registered with **ONRC** before first aid payment. [E2](sources.md#e2) [E30](sources.md#e30)
 - **PNRR** also funded storage (~€80M → ~1.8 GW targeted; e.g. €30M for 791.48 MWh across 5 projects) — but **PNRR closes Aug 2026**, so treat it as legacy, not a new-applicant route. [E4](sources.md#e4)
 - A separate **€150M municipal** program (Nov 2025) adds ~385 MW. [E18](sources.md#e18)
 
@@ -23,6 +24,8 @@
 - Guarantee stack (indicative): **€20,000/MW** capacity-allocation + **€30,000/MW** establishment-authorization + **20% of the connection tariff**. [E13](sources.md#e13)
 - **Order 27/2025**: standalone storage operators are **"assimilated to producers."** **Order 79/2025**: revised capacity-allocation methodology/auctions. [E15](sources.md#e15)
 - End-to-end permits: **grid connection (ATR/ATR certificate) → ANRE establishment authorization → building permit → ANRE operating licence**, plus environmental sign-off. [E13](sources.md#e13)
+- **CAEN Rev. 3:** **3516** storage, **3514** trading, **3511** production (renewable sub-code TBC). [E31](sources.md#e31)
+- **ANRE fees:** annual contribution **0.1%** of turnover; establishment-authorization modification fee 2,500 lei + 0.1% of remaining investment; full licence/authorization tariff schedule in **Order 93/2024**. [E32](sources.md#e32)
 
 ## 4. Revenue stack
 - **Balancing services ≈ 60–70%** of BESS revenue (procured by **Transelectrica** to hold 50 Hz): **aFRR €80–150/MW/day**, **mFRR €30–60/MW/day**, **FCR €40–80/MW/day** (capacity + activated energy). [E11](sources.md#e11)
@@ -42,7 +45,8 @@
 - Turnkey BESS ~**$117/kWh** globally in 2025 (−31% YoY); 4h packs outside China/US ≈ **$125/kWh** ($75 equipment + $50 install/connection). [E16](sources.md#e16)
 - **Europe 4h LFP ≈ $180–260/kWh installed**; shorter-duration (2h) systems cost **more per kWh** (power electronics spread over fewer kWh). [E17](sources.md#e17)
 - **LCOS** for well-sited 4h LFP ~**$65–150/MWh**. [E16](sources.md#e16)
-- See [`../financial-model.md`](../financial-model.md) for an illustrative 50 MW / 100 MWh case.
+- **Solar (RO datapoint):** Scatec's 190 MW reached financial close at ~€121M ≈ **€637/kWp** — anchors the ~€450–700/kWp range. [E33](sources.md#e33)
+- See [`../financial-model.md`](../financial-model.md) for an illustrative 50 MW / 100 MWh + 10 MWp case.
 
 ## 7. Solar co-location & hybrid economics
 The market is **shifting from standalone to hybrid** (solar + BESS): pure-merchant solar and pure-merchant storage both carry more risk, while hybrids get **better capture prices, curtailment protection, and grid-integration value**, and storage lets the plant **self-curtail during negative prices** and dispatch when profitable. [E23](sources.md#e23) Romania is becoming a "storage-led solar market" where financed hybrid platforms attract more capital than standalone development. [E24](sources.md#e24) Example: **Gârla Mare 2** — 126 MWp solar + 200 MWh BESS, €90M Raiffeisen financing, COD early 2027. [E24](sources.md#e24)
@@ -54,9 +58,11 @@ The market is **shifting from standalone to hybrid** (solar + BESS): pure-mercha
 - **⚠️ Grant-route nuance:** the **co-located behind-the-meter** storage grant requires the battery to **absorb ≥75% of the RES plant's energy** (≤100% eligible cost, €10M/enterprise cap) [E3](sources.md#e3) — which constrains grid-charging/arbitrage. The **standalone** scheme keeps the battery free, with the solar as a separate asset sharing the connection. **Pick one route per asset and verify eligibility.** [E2](sources.md#e2)
 
 ## 8. Open research tasks
-- [ ] Exact **CAEN Rev. 3** code(s) for storage + solar generation/trading.
-- [ ] **ANRE licence** thresholds & fees for storage operation (vs the >1 MW setting-up-authorization trigger). [E26](sources.md#e26)
-- [ ] 2026 **standalone scheme** call date, per-project cap, €/MWh scoring; and whether a co-located battery beside *new* solar qualifies. [E2](sources.md#e2) [E3](sources.md#e3)
-- [ ] Grid-connection headroom by node (Transelectrica/DSO maps).
-- [ ] Realistic 2026–2030 **balancing-price decay** + solar **capture-price cannibalization** curves.
-- [ ] Romania-specific **solar CAPEX €/kWp** and a land shortlist (Class III–V, <50 ha). [E29](sources.md#e29) [E27](sources.md#e27)
+- [x] **CAEN Rev. 3:** 3516 storage / 3514 trading / 3511 production — *renewable-production sub-code still TBC*. [E31](sources.md#e31)
+- [x] **ANRE fees:** 0.1% annual contribution + Order 93/2024 schedule; *exact licence-grant € still TBC*. [E32](sources.md#e32)
+- [x] **Standalone scheme:** Q2 2026 call, €15M/project cap, ≤€69k/MWh; *co-located-vs-standalone eligibility for new solar still TBC*. [E30](sources.md#e30)
+- [x] **Solar CAPEX:** ~€637/kWp [E33](sources.md#e33); *land shortlist (Class III–V, <50 ha) still open*. [E27](sources.md#e27)
+- [ ] **Grid-connection headroom by node** (Transelectrica/DSO maps) — ~60 GW requested vs ~19.6 GW installed. [E34](sources.md#e34)
+- [ ] **Balancing-price decay** + solar **capture-price** curves 2026–2032.
+
+> Project-wide verification register: [`../../../knowledge/open-questions.md`](../../../knowledge/open-questions.md).
