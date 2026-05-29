@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-05-29 — finsim run: hybrid is marginal at base assumptions (IRR ~5.7%)
+- **Result:** project **IRR ~5.7%**, **NPV −€3.9M** at a 10% hurdle, **payback 2035**, **min DSCR 1.00x** (tight), at the illustrative €34.4M CAPEX / €8M grant / €15M debt. See [finsim-report.md](finsim-report.md) (`python tools/finsim/run.py ventures/energy-storage/finsim.json`).
+- **Read:** below a 10% equity hurdle → the deal needs a **bigger grant** (the scheme allows up to €69k/MWh, cap €15M), **cheaper debt**, or a **revenue floor** (tolling) so balancing income doesn't decay. Min DSCR 1.00x means the debt is sized to the limit.
+- **Action:** treat grant size + a contracted revenue floor as make-or-break; re-run finsim per scenario. [E30](research/sources.md#e30) [E37](research/sources.md#e37)
+
+---
+
 ## 2026-05-29 — Extend to hybrid: add ~10 MWp co-located solar (rubric 85 → 88/115)
 - **Decision:** evolve from standalone BESS to a **hybrid** — 50 MW/100 MWh battery + ~10 MWp co-located solar sharing one grid connection (AC-coupled).
 - **Why:** the market is shifting to hybrids; co-location improves capture price, gives the battery cheap midday/negative-price charging, and **shares the scarce grid connection** across two revenue streams, easing financing. [E23](research/sources.md#e23) [E24](research/sources.md#e24) [E28](research/sources.md#e28)

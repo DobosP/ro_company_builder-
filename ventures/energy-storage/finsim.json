@@ -1,0 +1,35 @@
+{
+  "name": "Hybrid Solar-plus-Storage (50 MW / 100 MWh + 10 MWp)",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 12,
+  "legal_form": "srl",
+  "tax_regime": "cit",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.21},
+  "revenue": [
+    {"name": "Battery (balancing + arbitrage)", "amounts_by_year": [4500000, 4300000, 4100000, 3900000, 3700000, 3500000, 3400000, 3300000, 3200000, 3100000, 3000000, 3000000]},
+    {"name": "Solar generation", "base": 950000, "growth": -0.03}
+  ],
+  "costs": {
+    "fixed_opex": 400000,
+    "variable_pct_of_revenue": 0.15,
+    "payroll": [
+      {"role": "Asset / development manager", "count": 1, "gross_monthly": 18000},
+      {"role": "O&M / technical", "count": 2, "gross_monthly": 9000}
+    ]
+  },
+  "capex": [
+    {"name": "Battery system 100 MWh", "amount": 28000000, "year": 2027, "depreciation_years": 10},
+    {"name": "Solar park 10 MWp", "amount": 6400000, "year": 2027, "depreciation_years": 15}
+  ],
+  "grants": [
+    {"name": "Modernisation Fund (standalone, capped EUR 15M / EUR 69k/MWh)", "amount": 8000000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 10000000,
+    "debt": [{"amount": 15000000, "rate": 0.07, "term_years": 8, "type": "annuity", "draw_year": 2027}]
+  },
+  "dividend_payout": 0.5
+}

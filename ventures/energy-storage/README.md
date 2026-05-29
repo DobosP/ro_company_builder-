@@ -11,6 +11,7 @@
 - [compliance-checklist.md](compliance-checklist.md) — ANRE / grid / solar land & permits
 - [risk-register.md](risk-register.md)
 - [decision-log.md](decision-log.md)
+- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) — simulator config & generated projection
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 
 ## Snapshot

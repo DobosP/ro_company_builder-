@@ -2,6 +2,8 @@
 
 > ⚠️ **Orders of magnitude, not a pro forma.** Every figure is an **ASSUMPTION to verify** with EPC quotes, an optimiser's revenue stack, and a debt term sheet. Market inputs verified 2026-05; [E#] → [sources](research/sources.md). Romanian tax from [taxation](../../knowledge/taxation.md).
 
+▶ **Run the numbers:** `python tools/finsim/run.py ventures/energy-storage/finsim.json` → [finsim-report.md](finsim-report.md). Headline (illustrative): **IRR ~5.7%, NPV −€3.9M @10%, payback 2035, min DSCR 1.00x** — **marginal**, highly sensitive to grant size, debt terms and revenue decay.
+
 ## Configuration
 - **Battery:** 50 MW / 100 MWh (2-hour) LFP.
 - **Solar:** ~10 MWp co-located, **AC-coupled**, sharing one grid connection. [E28](research/sources.md#e28)

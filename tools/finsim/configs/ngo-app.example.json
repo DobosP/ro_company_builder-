@@ -1,0 +1,22 @@
+{
+  "name": "Children's nonprofit app (NGO) — EXAMPLE",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2026,
+  "horizon_years": 5,
+  "legal_form": "ngo",
+  "tax_regime": "auto",
+  "discount_rate": 0.05,
+  "revenue": [
+    {"name": "Grants", "amounts_by_year": [200000, 220000, 180000, 150000, 150000]},
+    {"name": "Donations", "base": 20000, "growth": 0.25}
+  ],
+  "costs": {
+    "fixed_opex": 60000,
+    "payroll": [
+      {"role": "Programme lead", "count": 1, "gross_monthly": 8000},
+      {"role": "Safeguarding / community", "count": 1, "gross_monthly": 6000}
+    ]
+  },
+  "dividend_payout": 0.0
+}

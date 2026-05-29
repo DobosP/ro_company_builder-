@@ -31,7 +31,7 @@ Two reusable pillars + per-venture workspaces:
 
 ## How to add a tool
 
-Tools are deferred. When starting one, see [`tools/README.md`](tools/README.md), add a `.gitignore` entry if needed, and keep generated docs/reports under the relevant venture folder.
+The first tool — [`tools/finsim/`](tools/finsim/), a config-driven financial simulator (pure-stdlib Python) — is built; its Romanian rates **mirror** [`knowledge/taxation.md`](knowledge/taxation.md), so update both together. When starting another tool, see [`tools/README.md`](tools/README.md), add a `.gitignore` entry if needed, and keep generated docs/reports under the relevant venture folder.
 
 ## Guardrails
 
