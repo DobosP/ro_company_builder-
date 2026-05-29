@@ -18,7 +18,7 @@ Each concrete venture then becomes: *copy a template, answer the hard questions,
 | Path | What's inside |
 |------|---------------|
 | [`framework/`](framework/) | The methodology: [hard questions](framework/hard-questions.md), [venture lifecycle](framework/venture-lifecycle.md), [evaluation rubric](framework/evaluation-rubric.md) |
-| [`knowledge/`](knowledge/) | Verified Romania facts: [formation](knowledge/company-formation.md), [taxation](knowledge/taxation.md), [funding](knowledge/funding-landscape.md), [compliance](knowledge/regulatory-compliance.md), [institutions](knowledge/institutions.md), [glossary](knowledge/glossary.md), [sources](knowledge/sources.md) |
+| [`knowledge/`](knowledge/) | Verified Romania facts: [formation](knowledge/company-formation.md), [taxation](knowledge/taxation.md), [funding](knowledge/funding-landscape.md), [compliance](knowledge/regulatory-compliance.md), [institutions](knowledge/institutions.md), [glossary](knowledge/glossary.md), [open questions](knowledge/open-questions.md), [sources](knowledge/sources.md) |
 | [`templates/`](templates/) | Fill-in artifacts: venture brief, business plan, financial model, market analysis, compliance checklist, risk register, decision log |
 | [`ventures/`](ventures/) | One folder per venture (scaffold + [`_template/`](ventures/_template/)). Ventures are added in later sessions. |
 | [`tools/`](tools/) | Roadmap/placeholder for future software (simulators, report generators, evaluators). |

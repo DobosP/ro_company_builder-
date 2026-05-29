@@ -14,6 +14,7 @@ Verified, dated facts an AI or founder needs to form and run a company in Romani
 | [regulatory-compliance.md](regulatory-compliance.md) | GDPR, e-Factura/SAF-T/e-Transport, labor law, accounting, sector permits |
 | [institutions.md](institutions.md) | Who's who: ONRC, ANAF, MIPE, ANRE, APIA/AFIR, ANSVSA, ANSPDCP… |
 | [glossary.md](glossary.md) | Romanian terms & acronyms decoded |
+| [open-questions.md](open-questions.md) | **Verification register** — resolved facts + open data gaps |
 | [sources.md](sources.md) | Dated source list backing every claim |
 
 ## How facts are maintained

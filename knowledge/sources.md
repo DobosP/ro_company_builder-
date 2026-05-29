@@ -45,3 +45,13 @@ Dated sources backing the facts in this knowledge base. Re-verify before acting;
 <a id="s18"></a>**S18.** Sovos — Romania SAF-T (D406) overview — https://sovos.com/vat/tax-rules/romania-saf-t/ — *verified 2026-05*
 
 <a id="s19"></a>**S19.** Fintua — Romania e-TVA pre-populated VAT returns — https://fintua.com/blog/romania-e-tva-pre-populated-vat-return/ — *verified 2026-05*
+
+<a id="s20"></a>**S20.** VATupdate / Taxopolis — Romania VAT 2026: standard 21%, single **11%** reduced rate (from 1 Aug 2025, replaced 5%/9%), temporary 9% on new homes to 31 Jul 2026 — https://www.vatupdate.com/2026/02/12/romania-comprehensive-vat-country-guide-2026/ — *verified 2026-05*
+
+<a id="s21"></a>**S21.** vatcalc / VATabout — Romania VAT registration threshold raised to **RON 395,000** (GO 22/2025) + EU small-business scheme — https://www.vatcalc.com/romania/romania-raises-vat-registration-threshold/ — *verified 2026-05*
+
+<a id="s22"></a>**S22.** PBS Worldwide — Romania micro-enterprise 2026: single **1%** rate (3% tier eliminated), ≥1 full-time employee — https://www.pbsworldwide.com/taxes/1-tax-rate-micro-enterprises-romania-game-changer-2026 — *verified 2026-05*
+
+<a id="s23"></a>**S23.** Impozite Online — CASS 2026 on dividends/investment income: threshold 6 min wages (~RON 24,300), 10% of 6/12/24-wage ceiling — https://impoziteonline.ro/blog/cass-2026-ghid-complet — *verified 2026-05*
+
+<a id="s24"></a>**S24.** Mihai Attorneys — Romanian company types 2026 (SRL/SA/PFA/branch): SA min capital **RON 90,000**, ≥2 shareholders, ≥30% paid at incorporation — https://www.mihaiattorneys.com/news-and-insights/types-of-companies-in-romania-in-2026-srl-sa-pfa-branch-which-one-should-you-choose — *verified 2026-05*

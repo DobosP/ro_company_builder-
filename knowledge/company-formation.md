@@ -8,7 +8,7 @@
 |------|----------|----------|-----------|----------------------|
 | **SRL** | Societate cu Răspundere Limitată | Most ventures (LLC); 1–50 associates | Limited | **RON 500 (~€100)** [[S1]](sources.md#s1) [[S5]](sources.md#s5) |
 | **SRL-D** | SRL — Debutant | First-time entrepreneurs (incentives + conditions) | Limited | as SRL |
-| **SA** | Societate pe Acțiuni | Larger/regulated, share issuance; ≥2 shareholders | Limited | historically RON 90,000 — *[TODO: verify 2026]* |
+| **SA** | Societate pe Acțiuni | Larger/regulated, share issuance; ≥2 shareholders | Limited | **RON 90,000** (~€18k; unchanged for 2026) [[S24]](sources.md#s24) |
 | **PFA** | Persoană Fizică Autorizată | Solo professional / freelancer | **Personal** | — |
 | **II** | Întreprindere Individuală | Individual enterprise | **Personal** | — |
 | **Asociație / Fundație** | — | Nonprofit / mission-first | n/a | OG 26/2000; registered via **court**, not ONRC |
@@ -18,6 +18,8 @@ The **SRL** is the default for almost all commercial ventures. Use an **NGO** fo
 ## SRL share capital (2026 change)
 - Minimum **RON 500 (~€100)**, up from the former symbolic 1 RON. [[S1]](sources.md#s1) [[S5]](sources.md#s5)
 - Must increase to **RON 5,000** if annual turnover exceeds **~RON 400,000 (~€80k)**; companies that cross the threshold comply by the end of the following financial year. [[S3]](sources.md#s3) [[S4]](sources.md#s4)
+
+**SA (joint-stock):** minimum **RON 90,000** — unchanged for 2026 (regulated periodically to track ~€25k). ≥2 shareholders; **≥30%** of capital paid at incorporation (balance within 12 months); minimum nominal value RON 0.10/share. [[S24]](sources.md#s24)
 
 ## Registration steps (ONRC)
 1. **Reserve the company name** at ONRC (Trade Registry). [[S1]](sources.md#s1)

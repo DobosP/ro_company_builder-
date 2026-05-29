@@ -36,5 +36,5 @@ Tools are deferred. When starting one, see [`tools/README.md`](tools/README.md),
 ## Guardrails
 
 - This repo **informs**; it does not replace ONRC/ANAF guidance or a licensed lawyer/accountant.
-- Don't invent legal/tax figures. If unverified, mark `[TODO: verify]` rather than guessing.
+- Don't invent legal/tax figures. If unverified, mark `[TODO: verify]` rather than guessing, and log it in [`knowledge/open-questions.md`](knowledge/open-questions.md). When you resolve a question, update the doc + [`knowledge/sources.md`](knowledge/sources.md) and move the row to "Resolved" in that register.
 - Keep mission-driven and children-focused ventures' safeguarding considerations explicit.
