@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-05-29 — €100K small-start sizing: a few hundred kWh, so use it as dev seed (not an IPP)
+- **How much storage?** At C&I turnkey LFP ~€170–280/kWh, €100K ≈ **~300–450 kWh** (one or two 100 kW/215 kWh cabinets); **~0.6–0.9 MWh** with second-life EV packs. [E58](research/sources.md#e58) [E61](research/sources.md#e61) [E62](research/sources.md#e62) Latest tech: LFP at record lows (stationary ~$70/kWh pack [E59](research/sources.md#e59)); sodium-ion arrived 2026 but not yet cheaper turnkey at this scale. [E60](research/sources.md#e60)
+- **Reality:** a few-hundred-kWh battery is **sub-1 MW** → can't play wholesale/balancing markets; only **behind-the-meter** (peak-shaving/self-consumption) works. A €100K BTM pilot models IRR ~16%, ~5-yr payback — fine but small ([finsim-small-100k](finsim-small-100k-report.md)).
+- **Decision:** **don't buy a small battery to chase the IPP dream.** Best use of €100K = **development seed capital** for the asset-light develop-and-sell model (control a Suceava grid node, sell ready-to-build). Alternative: a BTM pilot at the agri cold-store. See [small-start-100k.md](small-start-100k.md).
+
+---
+
 ## 2026-05-29 — Reconsider the business model: asset-light "develop-and-sell" beats IPP
 - **Trigger:** can we use EnergoBit's *schema* to profit? EnergoBit is **asset-light** (EPC/SCADA services, ~8–12% margin, no asset ownership). [E55](research/sources.md#e55) [E56](research/sources.md#e56)
 - **Finding:** for a new entrant the strongest analogue is **asset-light development** — secure **grid connection + permits**, sell the **ready-to-build** project (live in RO: R.Power selling 200MW/400MWh, Repono buying 202MW/404MWh). [E57](research/sources.md#e57)

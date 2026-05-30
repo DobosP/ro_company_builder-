@@ -115,3 +115,13 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e56"></a>**E56.** Solar Mango / Renewable Watch — **EPC contractor margins ~8–12%** (solar), 5–10% general EPC: execution-margin model, not asset ownership; IPPs by contrast run 80%+ EBITDA but are capital-intensive — https://renewablewatch.in/2025/08/25/solar-margins-cost-trends-across-epc-projects/ — *verified 2026-05*
 
 <a id="e57"></a>**E57.** Energy Global / Renewables Now — **"develop-and-sell" is active in Romania:** R.Power divesting a **ready-to-build 200 MW/400 MWh** BESS; Repono acquiring **202 MW/404 MWh** (Argeș); ready-to-build projects with **secured grid connection + permits** command strong investor demand — https://www.energyglobal.com/energy-storage/20102025/rpower-launches-divestment-process-for-a-ready-to-build-bess-in-romania/ — *verified 2026-05*
+
+<a id="e58"></a>**E58.** BSLBATT / GSL Energy / cntepower — **C&I turnkey LFP installed cost 2025–26 ≈ $180–300/kWh** for containerised ≥100 kWh (all-in-one: battery + PCS + cooling + BMS + fire); broader C&I $250–450/kWh — https://bslbatt.com/blogs/commercial-battery-storage-cost/ — *verified 2026-05*
+
+<a id="e59"></a>**E59.** BloombergNEF — **2025 record lows:** Li-ion packs **$108/kWh** avg; **LFP packs $81/kWh**; stationary-storage LFP packs **~$70/kWh** (lowest cells/packs $36/$50); 2026 ≈ $105/kWh — https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/ — *verified 2026-05*
+
+<a id="e60"></a>**E60.** ESS-News / pv magazine / IRENA — **sodium-ion** at/near LFP cost parity in 2026 (~$55–70/kWh cell; CATL Naxtra mass-production, very long cycle life), heading to **$40–50/kWh** — newest innovation, not yet cheaper turnkey than LFP at small scale — https://www.ess-news.com/2026/01/09/sodium-ion-battery-cells-already-near-lithium-ion-cost-parity-set-to-get-cheaper/ — *verified 2026-05*
+
+<a id="e61"></a>**E61.** McKinsey / IDTechEx — **second-life EV batteries ~30–70% cheaper** than new (~$65–117/kWh incl. repurposing) — cheaper kWh but higher integration/warranty risk — https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/second-life-ev-batteries-the-newest-value-pool-in-energy-storage — *verified 2026-05*
+
+<a id="e62"></a>**E62.** HBOWA / Preta Power — example **100 kW / 215 kWh** commercial all-in-one cabinet (HV battery + BMS + 100 kW PCS + fire + liquid cooling + EMS) ≈ €40–65k — https://www.pretapower.com/commercial-battery-storage-100kw-215kwh/ — *verified 2026-05*

@@ -1,0 +1,28 @@
+{
+  "name": "Small start (EUR 100K): ~400 kWh LFP behind-the-meter pilot",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2026,
+  "horizon_years": 10,
+  "legal_form": "srl",
+  "tax_regime": "auto",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.21},
+  "revenue": [
+    {"name": "Peak-shaving + self-consumption savings (behind-the-meter host)", "base": 22000, "growth": 0.02}
+  ],
+  "costs": {
+    "fixed_opex": 3000,
+    "variable_pct_of_revenue": 0.05,
+    "payroll": []
+  },
+  "capex": [
+    {"name": "100 kW / ~215 kWh LFP all-in-one cabinet (x2 ~= 430 kWh)", "amount": 85000, "year": 2026, "depreciation_years": 10},
+    {"name": "Install / connection / civils", "amount": 15000, "year": 2026, "depreciation_years": 10}
+  ],
+  "financing": {
+    "equity": 100000,
+    "debt": []
+  },
+  "dividend_payout": 0.0
+}
