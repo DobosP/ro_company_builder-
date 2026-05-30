@@ -95,3 +95,9 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e46"></a>**E46.** Wikipedia / CJ Suceava — **Ilișești** commune (villages Ilișești + Brașca) on **DN17 (E58)**, ~20 km from Suceava / 18 km from Gura Humorului; sub-Carpathian hills + agricultural land; fixed + wireless internet — https://ro.wikipedia.org/wiki/Comuna_Ili%C8%99e%C8%99ti,_Suceava — *verified 2026-05*
 
 <a id="e47"></a>**E47.** Sunshine Solar Energy / Wikipedia — Romania solar resource ~1,000–1,300 kWh/m²/yr (north, incl. Bucovina) vs up to ~1,650 in the SE → **north = weak solar** — https://www.sunshinesolarenergy.com/romania_solar_potential.php — *verified 2026-05*
+
+<a id="e48"></a>**E48.** EnergyinEU / Balkan Green Energy News — Romania DAM 2025: **negative prices midday** (11:00–16:00, peak solar, to −€6.18/MWh) and **evening peak €198.16/MWh** (20:00–21:00) — a ~€200/MWh daily spread — https://balkangreenenergynews.com/episodes-of-negative-power-prices-in-slovenia-romania-spread-to-workdays/ — *verified 2026-05*
+
+<a id="e49"></a>**E49.** ESS-News / pv magazine — **ANRE ends double taxation of storage (July 2025):** grid-drawn→stored→reinjected energy **exempt from transmission (extraction), distribution and system-service fees** + no green certificates; only own-consumption/round-trip losses still pay standard tariffs — https://www.ess-news.com/2025/07/14/romania-removes-double-taxation-on-energy-storage-in-bid-for-investors/ — *verified 2026-05*
+
+<a id="e50"></a>**E50.** Montel / Capstone DC / Synertics — arbitrage economics: RTE ~88%, ~**1.4 cycles/day** (1,500–1,800 full-cycle h/yr), net spread ~**€60/MWh**, ~€70k/MW from arbitrage → **pure-arbitrage IRR ~6%** ("standalone thin/unbankable"); **stacking** with FCR/aFRR/mFRR + intraday + capacity is essential; 15-min settlement +~14% — https://montel.energy/resources/blog/battery-storage-revenues-explained — *verified 2026-05*

@@ -13,7 +13,8 @@
 - [decision-log.md](decision-log.md)
 - [**funding-application.md**](funding-application.md) — mockup full Modernisation Fund grant dossier
 - [**site-suceava-ilisesti.md**](site-suceava-ilisesti.md) — concrete site assessment (Suceava standalone)
-- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) (hybrid) + [Suceava standalone scenario](finsim-suceava-report.md)
+- [**arbitrage-strategy.md**](arbitrage-strategy.md) — buy-day/sell-night analysis
+- [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) (hybrid) + [Suceava standalone](finsim-suceava-report.md) + [arbitrage-only](finsim-suceava-arbitrage-report.md)
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 
 ## Snapshot

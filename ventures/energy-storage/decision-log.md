@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Arbitrage ("buy day / sell night") assessed: viable core, but stack balancing
+- **Strategy:** charge midday (negative/cheap solar) → discharge evening peak (~€198/MWh) / morning. Romania's spread is huge, and **ANRE removed BESS double taxation (Jul 2025)** — energy stored→reinjected is exempt from transmission/distribution/system fees → arbitrage now pays. [E48](research/sources.md#e48) [E49](research/sources.md#e49)
+- **Numbers:** arbitrage-only ~€3.0M/yr → **finsim IRR −7.9%, never pays back** vs the stacked +3.8% (pure arbitrage ~5–7% IRR is "unbankable alone"). [E50](research/sources.md#e50) See [arbitrage-strategy.md](arbitrage-strategy.md) + [finsim-suceava-arbitrage.json](finsim-suceava-arbitrage.json).
+- **Decision:** make arbitrage the **core** of a **stacked** strategy (arbitrage + aFRR/FCR + intraday) via an **optimiser/tolling** with a revenue floor; don't rely on arbitrage alone. Green angle: charging midday = storing surplus renewables (no own-solar needed in weak-sun Suceava).
+- **Next:** get an optimiser's stacked-revenue projection (incl. a floor) to replace the generic €4.5M assumption.
+
+---
+
 ## 2026-05-29 — Site selected: Suceava / Ilișești (standalone battery)
 - **Decision:** localize to **Suceava county / Ilișești** (DN17) as a **standalone battery** (drop solar — Bucovina sun is weak [E47](research/sources.md#e47)). Connect to the **reinforced Suceava 400/110 kV** node (Gădălin ring + Moldova interconnector) via **Delgaz Grid**; regional precedent = Premier Energy's 200 MW BESS near Iași. [E42](research/sources.md#e42) [E43](research/sources.md#e43) [E45](research/sources.md#e45)
 - **Land:** ~1–2 ha cheap extravilan (~€2.5–8/m²) — trivial vs CAPEX; a willing single-owner plot near an MV line. [E44](research/sources.md#e44)
