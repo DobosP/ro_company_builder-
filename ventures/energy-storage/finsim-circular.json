@@ -1,0 +1,35 @@
+{
+  "name": "Circular reuse micro-workshop (~EUR 350K): refurbish second-life batteries",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2026,
+  "horizon_years": 10,
+  "legal_form": "srl",
+  "tax_regime": "auto",
+  "discount_rate": 0.12,
+  "vat": {"registered": true, "rate": 0.21},
+  "revenue": [
+    {"name": "Refurbished battery sales (cheap stationary storage)", "amounts_by_year": [200000, 450000, 700000, 850000, 950000, 1000000, 1050000, 1100000, 1150000, 1200000]},
+    {"name": "EPR take-back / gate fees + recovered materials", "base": 70000, "growth": 0.08}
+  ],
+  "costs": {
+    "fixed_opex": 80000,
+    "variable_pct_of_revenue": 0.40,
+    "payroll": [
+      {"role": "Technicians (test/grade/repack)", "count": 3, "gross_monthly": 5000},
+      {"role": "Engineer / BMS + ops lead", "count": 1, "gross_monthly": 9000}
+    ]
+  },
+  "capex": [
+    {"name": "Diagnostic/testing + BMS integration + repack line", "amount": 250000, "year": 2026, "depreciation_years": 7},
+    {"name": "Premises fit-out + safety/fire + tooling", "amount": 100000, "year": 2026, "depreciation_years": 10}
+  ],
+  "grants": [
+    {"name": "LIFE / POCIDIF circular-economy grant (~50% of eligible CAPEX)", "amount": 150000, "year": 2026, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 350000,
+    "debt": [{"amount": 100000, "rate": 0.08, "term_years": 6, "type": "annuity", "draw_year": 2026}]
+  },
+  "dividend_payout": 0.2
+}

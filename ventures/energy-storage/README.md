@@ -17,6 +17,7 @@
 - [**partners.md**](partners.md) — Cluj EPC/grid/tech partners (EnergoBit, Electrogrup, Gravity)
 - [**business-model-options.md**](business-model-options.md) — IPP vs **asset-light develop-and-sell** (EnergoBit-style)
 - [**small-start-100k.md**](small-start-100k.md) — what **€100K** buys (~300–450 kWh) + best use of it
+- [**circular-economy-variant.md**](circular-economy-variant.md) — reuse + recycle as the **core** (cost tiers + funding)
 - [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) (hybrid) + [Suceava standalone](finsim-suceava-report.md) + [arbitrage-only](finsim-suceava-arbitrage-report.md)
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 

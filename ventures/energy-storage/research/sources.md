@@ -125,3 +125,13 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e61"></a>**E61.** McKinsey / IDTechEx — **second-life EV batteries ~30–70% cheaper** than new (~$65–117/kWh incl. repurposing) — cheaper kWh but higher integration/warranty risk — https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/second-life-ev-batteries-the-newest-value-pool-in-energy-storage — *verified 2026-05*
 
 <a id="e62"></a>**E62.** HBOWA / Preta Power — example **100 kW / 215 kWh** commercial all-in-one cabinet (HV battery + BMS + 100 kW PCS + fire + liquid cooling + EMS) ≈ €40–65k — https://www.pretapower.com/commercial-battery-storage-100kw-215kwh/ — *verified 2026-05*
+
+<a id="e63"></a>**E63.** ScienceDirect / Voltfang — second-life **repurposing facility** capital: a full repurposing line ~**50M SEK (~€4.4M)** standalone, far less if hosted in existing premises; repurposing cost **~$12/kWh (pack) / $25–49/kWh (module)**; Voltfang raised €15M (Series B) to scale to 1 GWh — https://www.sciencedirect.com/science/article/pii/S2352550923002373 — *verified 2026-05*
+
+<a id="e64"></a>**E64.** ROSI / PRISM / Envaris — **solar-panel recycling plant** scale: ROSI raised **>€20M** for a 10,000 t/yr site; PRISM 8,400 t/yr; recycling cost **~€250–500/tonne**; >95% material recovery — https://www.rosi-solar.com/news/rosi-secures-over-eu20-million-to-scale-solar-panel-recycling-across-europe — *verified 2026-05*
+
+<a id="e65"></a>**E65.** EU LIFE / Innovation Fund / Zabala — circular-economy & battery funding: **LIFE 2025 Circular Economy** sub-programme (collection/recycling of batteries), **Innovation Fund €1B battery call** (Dec 2024); eco-design / Safe-and-Sustainable-by-Design required — https://www.zabala.eu/news/eu-battery-funding-programs/ — *verified 2026-05*
+
+<a id="e66"></a>**E66.** Lexology / PV Cycle — **Romania WEEE/EPR (from 1 Jan 2025):** EPR schemes relicensed, min 5% market share; producers placing PV panels/batteries must finance collection & recycling; Environmental Fund penalty **RON 2/kg (~€0.4/kg)** for missed targets — https://www.lexology.com/library/detail.aspx?g=30c8a8e6-2185-487f-b14a-13d4e18091fe — *verified 2026-05*
+
+<a id="e67"></a>**E67.** Springer / MDPI — second-life **break-even economics:** SLB is favourable when repurposed cost **< ~80%** of a new battery, profitable **< ~60%**; main cost/risk = grading (SoH), repackaging, and a fit-for-purpose **BMS** — https://link.springer.com/article/10.1007/s43979-023-00049-5 — *verified 2026-05*

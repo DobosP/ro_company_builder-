@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-05-29 — Circular-economy variant (reuse + recycle as core): how much money
+- **Question:** capital to develop a venture where second-life batteries + EoL solar panels are reused/recycled as the *core*.
+- **Tiers:** **reuse micro-workshop ~€150k–500k**; **reuse SME line ~€1–4M**; **panel recycling plant ~€10–25M+** (ROSI raised >€20M for 10kt/yr). [E63](research/sources.md#e63) [E64](research/sources.md#e64)
+- **finsim (Tier-A, ~€350k CAPEX, ~50% grant, realistic ramp):** IRR ~30.7%, NPV +€573k, payback 2030 — viable, **but working-capital-hungry** (an under-funded run showed a −€417k gap). Budget CAPEX + ~€150–300k working capital.
+- **Reg layer:** Romania WEEE/EPR (from 2025) = obligation *and* revenue (producers pay take-back; RON 2/kg penalty). Strongly **grant-friendly** (LIFE Circular Economy, Innovation Fund, POCIDIF/PODD, 40–70%). [E65](research/sources.md#e65) [E66](research/sources.md#e66)
+- **Decision/notes:** to start small with reuse as core, plan **~€250k–500k** (not €100K), lead with a grant, sign EPR take-back contracts; recycling is a €10M+ grant/investor play. Synergy: refurb packs feed the BTM/agri storage; closes the loop. Likely deserves its own `ventures/circular-batteries-solar/` folder. See [circular-economy-variant.md](circular-economy-variant.md).
+
+---
+
 ## 2026-05-29 — €100K small-start sizing: a few hundred kWh, so use it as dev seed (not an IPP)
 - **How much storage?** At C&I turnkey LFP ~€170–280/kWh, €100K ≈ **~300–450 kWh** (one or two 100 kW/215 kWh cabinets); **~0.6–0.9 MWh** with second-life EV packs. [E58](research/sources.md#e58) [E61](research/sources.md#e61) [E62](research/sources.md#e62) Latest tech: LFP at record lows (stationary ~$70/kWh pack [E59](research/sources.md#e59)); sodium-ion arrived 2026 but not yet cheaper turnkey at this scale. [E60](research/sources.md#e60)
 - **Reality:** a few-hundred-kWh battery is **sub-1 MW** → can't play wholesale/balancing markets; only **behind-the-meter** (peak-shaving/self-consumption) works. A €100K BTM pilot models IRR ~16%, ~5-yr payback — fine but small ([finsim-small-100k](finsim-small-100k-report.md)).
