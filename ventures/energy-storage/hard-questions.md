@@ -33,6 +33,7 @@ Fast solar/wind growth outpaces grid flexibility → **congestion, curtailment, 
 
 ## 7. Team & operations
 Development (permitting/grid/land), hybrid EPC management, and **outsourced** trading/optimisation + O&M. [E9](research/sources.md#e9) Week-1 reality is development & paperwork.
+- **Partners:** shortlist a Cluj EPC — **EnergoBit** (VINCI Energies) or **Electrogrup** — for the grid-connection/substation/SCADA + BESS works; see [partners.md](partners.md). [E51](research/sources.md#e51) [E53](research/sources.md#e53)
 
 ## 8. Location & strategic fit
 **The whole game:** a node with **grid headroom** + (for the hybrid) **high irradiation** + land. Co-location shares the connection and land, improving economics. [E13](research/sources.md#e13) [E22](research/sources.md#e22) [E28](research/sources.md#e28)

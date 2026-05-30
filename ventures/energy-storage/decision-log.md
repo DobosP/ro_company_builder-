@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Add a Cluj EPC partner (EnergoBit / Electrogrup) to de-risk delivery
+- **Decision:** integrate a **Cluj-Napoca smart-grid EPC** for the Suceava BESS — shortlist **EnergoBit** (substations/SCADA/grid; now VINCI Energies) and **Electrogrup** (PV+BESS+grid connection) for competitive budgetary quotes; keep trading/optimisation with a separate market optimiser. [E51](research/sources.md#e51) [E52](research/sources.md#e52) [E53](research/sources.md#e53)
+- **Why:** fills the venture's weakest rubric dimension (team/execution); yields a **real CAPEX quote** (replacing the €280/kWh assumption) and a **credible delivery partner** for the grant application. See [partners.md](partners.md).
+- **Workflow:** adds a reusable **"partners / ecosystem"** step to the venture method (template + hard-questions §7).
+- **Next:** request EPC + grid-connection + SCADA quotes from both → feed [finsim-suceava.json](finsim-suceava.json) and the [funding-application.md](funding-application.md).
+
+---
+
 ## 2026-05-29 — Arbitrage ("buy day / sell night") assessed: viable core, but stack balancing
 - **Strategy:** charge midday (negative/cheap solar) → discharge evening peak (~€198/MWh) / morning. Romania's spread is huge, and **ANRE removed BESS double taxation (Jul 2025)** — energy stored→reinjected is exempt from transmission/distribution/system fees → arbitrage now pays. [E48](research/sources.md#e48) [E49](research/sources.md#e49)
 - **Numbers:** arbitrage-only ~€3.0M/yr → **finsim IRR −7.9%, never pays back** vs the stacked +3.8% (pure arbitrage ~5–7% IRR is "unbankable alone"). [E50](research/sources.md#e50) See [arbitrage-strategy.md](arbitrage-strategy.md) + [finsim-suceava-arbitrage.json](finsim-suceava-arbitrage.json).

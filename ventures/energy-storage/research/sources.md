@@ -101,3 +101,11 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e49"></a>**E49.** ESS-News / pv magazine — **ANRE ends double taxation of storage (July 2025):** grid-drawn→stored→reinjected energy **exempt from transmission (extraction), distribution and system-service fees** + no green certificates; only own-consumption/round-trip losses still pay standard tariffs — https://www.ess-news.com/2025/07/14/romania-removes-double-taxation-on-energy-storage-in-bid-for-investors/ — *verified 2026-05*
 
 <a id="e50"></a>**E50.** Montel / Capstone DC / Synertics — arbitrage economics: RTE ~88%, ~**1.4 cycles/day** (1,500–1,800 full-cycle h/yr), net spread ~**€60/MWh**, ~€70k/MW from arbitrage → **pure-arbitrage IRR ~6%** ("standalone thin/unbankable"); **stacking** with FCR/aFRR/mFRR + intraday + capacity is essential; 15-min settlement +~14% — https://montel.energy/resources/blog/battery-storage-revenues-explained — *verified 2026-05*
+
+<a id="e51"></a>**E51.** EnergoBit — Cluj-Napoca energy-engineering group (founded 1990; ~€100M turnover 2024; 825 staff): substations, transmission/distribution lines, **Smart Grid, SCADA, protection, metering, dispatching**, MV switchgear & transformer workshop — https://www.energobit.com/ — *verified 2026-05*
+
+<a id="e52"></a>**E52.** Energy Industry Review — **VINCI Energies to acquire EnergoBit** (agreement 16 Jul 2025; finalisation ~Nov 2025) — https://energyindustryreview.com/marketplace/vinci-to-acquire-energobit/ — *verified 2026-05*
+
+<a id="e53"></a>**E53.** RAISE / Electrogrup (E-Infra, Cluj-Napoca) — EPC for large PV parks, **commercial BESS and grid-connection works** — https://raise.energy/electrogrup/ — *verified 2026-05*
+
+<a id="e54"></a>**E54.** Romania Insider — **Gravity Research** (Cluj-Napoca) raises RON 7.6M for **Heliotech.ai**, AI optimisation of PV production (forecasting, anomaly detection) — https://www.romania-insider.com/gravity-research-funding-heliotech-october-2025 — *verified 2026-05*

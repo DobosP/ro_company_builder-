@@ -11,6 +11,7 @@
 - `compliance-checklist.md`
 - `risk-register.md`
 - `decision-log.md`
+- `partners.md` — EPC / tech / service partners (Romanian ecosystem)
 - `research/` — sourced notes (sector regulator, subsidies, market data)
 
 ## Workflow
