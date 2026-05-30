@@ -109,3 +109,9 @@ Venture-specific sources. Reusable Romania facts live in [`../../../knowledge/so
 <a id="e53"></a>**E53.** RAISE / Electrogrup (E-Infra, Cluj-Napoca) — EPC for large PV parks, **commercial BESS and grid-connection works** — https://raise.energy/electrogrup/ — *verified 2026-05*
 
 <a id="e54"></a>**E54.** Romania Insider — **Gravity Research** (Cluj-Napoca) raises RON 7.6M for **Heliotech.ai**, AI optimisation of PV production (forecasting, anomaly detection) — https://www.romania-insider.com/gravity-research-funding-heliotech-october-2025 — *verified 2026-05*
+
+<a id="e55"></a>**E55.** VINCI Energies / EnergoBit — EnergoBit **business model = asset-light services/EPC**: engineering & installation of substations, T&D lines, **SCADA, grid automation**, MV switchgear/transformer workshop; builds *for* DSOs/TSOs & private clients (does not own generation/storage assets) — https://www.energobit.com/service/scada-solutions/ — *verified 2026-05*
+
+<a id="e56"></a>**E56.** Solar Mango / Renewable Watch — **EPC contractor margins ~8–12%** (solar), 5–10% general EPC: execution-margin model, not asset ownership; IPPs by contrast run 80%+ EBITDA but are capital-intensive — https://renewablewatch.in/2025/08/25/solar-margins-cost-trends-across-epc-projects/ — *verified 2026-05*
+
+<a id="e57"></a>**E57.** Energy Global / Renewables Now — **"develop-and-sell" is active in Romania:** R.Power divesting a **ready-to-build 200 MW/400 MWh** BESS; Repono acquiring **202 MW/404 MWh** (Argeș); ready-to-build projects with **secured grid connection + permits** command strong investor demand — https://www.energyglobal.com/energy-storage/20102025/rpower-launches-divestment-process-for-a-ready-to-build-bess-in-romania/ — *verified 2026-05*

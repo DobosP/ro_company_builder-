@@ -15,6 +15,7 @@
 - [**site-suceava-ilisesti.md**](site-suceava-ilisesti.md) — concrete site assessment (Suceava standalone)
 - [**arbitrage-strategy.md**](arbitrage-strategy.md) — buy-day/sell-night analysis
 - [**partners.md**](partners.md) — Cluj EPC/grid/tech partners (EnergoBit, Electrogrup, Gravity)
+- [**business-model-options.md**](business-model-options.md) — IPP vs **asset-light develop-and-sell** (EnergoBit-style)
 - [finsim.json](finsim.json) + [finsim-report.md](finsim-report.md) (hybrid) + [Suceava standalone](finsim-suceava-report.md) + [arbitrage-only](finsim-suceava-arbitrage-report.md)
 - [research/](research/) — [research notes](research/research-notes.md) + [sources](research/sources.md)
 

@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-05-29 — Reconsider the business model: asset-light "develop-and-sell" beats IPP
+- **Trigger:** can we use EnergoBit's *schema* to profit? EnergoBit is **asset-light** (EPC/SCADA services, ~8–12% margin, no asset ownership). [E55](research/sources.md#e55) [E56](research/sources.md#e56)
+- **Finding:** for a new entrant the strongest analogue is **asset-light development** — secure **grid connection + permits**, sell the **ready-to-build** project (live in RO: R.Power selling 200MW/400MWh, Repono buying 202MW/404MWh). [E57](research/sources.md#e57)
+- **finsim:** develop-and-sell → **IRR ~127%, NPV +€7.1M on ~€1.2M equity** ([finsim-developer](finsim-developer-report.md)) vs IPP **−€4.7M NPV on €10M** ([finsim-suceava](finsim-suceava-report.md)). Monetises the scarce asset (grid) without €28M CAPEX or merchant risk.
+- **Decision:** make **asset-light develop-and-sell the primary strategy** (with optionality to keep+co-build a node as IPP); use EnergoBit/Electrogrup as **EPC partners to the buyer**, not competitors. Full analysis: [business-model-options.md](business-model-options.md).
+- **Next:** get ready-to-build **€/MW sale comps** from a RO BESS broker; re-run finsim-developer with real comps + ATR-guarantee development costs.
+
+---
+
 ## 2026-05-29 — Add a Cluj EPC partner (EnergoBit / Electrogrup) to de-risk delivery
 - **Decision:** integrate a **Cluj-Napoca smart-grid EPC** for the Suceava BESS — shortlist **EnergoBit** (substations/SCADA/grid; now VINCI Energies) and **Electrogrup** (PV+BESS+grid connection) for competitive budgetary quotes; keep trading/optimisation with a separate market optimiser. [E51](research/sources.md#e51) [E52](research/sources.md#e52) [E53](research/sources.md#e53)
 - **Why:** fills the venture's weakest rubric dimension (team/execution); yields a **real CAPEX quote** (replacing the €280/kWh assumption) and a **credible delivery partner** for the grant application. See [partners.md](partners.md).

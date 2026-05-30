@@ -10,6 +10,7 @@ Fast solar/wind growth outpaces grid flexibility → **congestion, curtailment, 
 - **Size:** ~1,200 MW storage target by 2030 vs ~241 MW live; solar adds a second revenue stream. [E1](research/sources.md#e1)
 - **Competition:** crowded, now incl. hybrids (Gârla Mare 2 126 MWp + 200 MWh). [E24](research/sources.md#e24) [E7](research/sources.md#e7) [E8](research/sources.md#e8)
 - **Edge:** grid-connection rights + land + speed + a financed hybrid (de-risked vs standalone).
+- **Business model:** owning the battery (IPP) is low-return; an **asset-light develop-and-sell** model (secure grid+permits → sell ready-to-build) is far more profitable for a new entrant — see [business-model-options.md](business-model-options.md). [E57](research/sources.md#e57)
 
 ## 3. Legal structure
 - **SRL** per-site **SPV**; **CIT 16%** (micro irrelevant at scale). [taxation](../../knowledge/taxation.md)

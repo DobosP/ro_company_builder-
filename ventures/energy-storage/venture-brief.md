@@ -16,6 +16,9 @@
 | **Location in RO** | **Candidate: Suceava / Ilișești** (DN17) — by the reinforced 400/110 kV Suceava node; cheap extravilan land. North = weak solar → **standalone battery** here. See [site-suceava-ilisesti.md](site-suceava-ilisesti.md). [E42](research/sources.md#e42) [E47](research/sources.md#e47) *(SE/Dobrogea remains the better hybrid+solar location.)* |
 | **Rubric score** | **88/115** (hybrid lifts financial viability — see [decision-log.md](decision-log.md)) |
 
+## ⭐ Business-model choice (important)
+Owning the battery (IPP) is **low-return** (finsim IRR ~3.8%). An **asset-light "develop-and-sell"** model — secure the **grid connection + permits**, sell the **ready-to-build** project (as R.Power/Repono are doing in RO) — models at **IRR ~127% on ~€1.2M** equity, monetising the scarce asset (grid) without the €28M CAPEX. This mirrors **EnergoBit's asset-light schema**. See [business-model-options.md](business-model-options.md). [E55](research/sources.md#e55) [E57](research/sources.md#e57)
+
 ## Why now
 Live, generous funding (Modernisation Fund) + strong 2025 spreads (DAM €110/MWh, €168/MWh daily) + a decisive market shift to **financed hybrid platforms**. [E1](research/sources.md#e1) [E12](research/sources.md#e12) [E24](research/sources.md#e24)
 
