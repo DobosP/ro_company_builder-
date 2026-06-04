@@ -18,5 +18,6 @@ One folder per concrete venture. **This pass only scaffolds** — deep research 
 | 3 | `kids-social-app` | Social media app for children (nonprofit) | NGO | ⬜ not started | NGO form (court registration), GDPR children's data, safeguarding |
 | 4 | `dyslexia-learning-app` | Learning app for children with dyslexia | Commercial or NGO | ⬜ not started | Pedagogy/evidence base, GDPR children's data, accessibility |
 | 5 | `romania-data-repo` | Data/knowledge repository for Romania | TBD | ⬜ not started | Open-data sources, end-product definition, licensing, ANCOM/ANSPDCP |
+| + | [`integrated-agri-energy`](integrated-agri-energy/) | Circular agri-energy system (combines #1+#2 + fish/algae) | Commercial | 🟦 **v1 deep-dive** | Funding-stacking via SPVs (AFIR + EMFAF + Modernisation Fund + agrivoltaics), phasing, self-consumption |
 
-> Ventures #1 (energy) and #2 (agriculture) have v1 deep-dives. Three remain queued.
+> Ventures #1 (energy) and #2 (agriculture) have v1 deep-dives, plus a combined **integrated-agri-energy** system that stacks their funding. Three original ventures remain queued.

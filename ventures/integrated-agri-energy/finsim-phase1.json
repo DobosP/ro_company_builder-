@@ -1,0 +1,39 @@
+{
+  "name": "Integrated agri-energy — Phase 1 only (solar+storage+pumps+greenhouse), self-consumption base",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 12,
+  "legal_form": "srl",
+  "tax_regime": "cit",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.11},
+  "revenue": [
+    {"name": "Greenhouse produce (high-value veg/fruit)", "amounts_by_year": [450000, 950000, 1300000, 1450000, 1500000, 1550000, 1600000, 1650000, 1700000, 1750000, 1800000, 1850000]},
+    {"name": "Energy savings + surplus power (self-consumption first)", "base": 180000, "growth": 0.02}
+  ],
+  "costs": {
+    "fixed_opex": 260000,
+    "variable_pct_of_revenue": 0.40,
+    "payroll": [
+      {"role": "Farm + greenhouse workers", "count": 5, "gross_monthly": 4000},
+      {"role": "System/energy + ops manager", "count": 1, "gross_monthly": 11000}
+    ]
+  },
+  "capex": [
+    {"name": "Solar PV (agrivoltaic, ~1.5 MWp; second-life option)", "amount": 950000, "year": 2027, "depreciation_years": 15},
+    {"name": "Battery storage (C&I, second-life option)", "amount": 600000, "year": 2027, "depreciation_years": 10},
+    {"name": "Solar boreholes + pumps + irrigation", "amount": 350000, "year": 2027, "depreciation_years": 10},
+    {"name": "Smart greenhouse (~1 ha, phased from polytunnel)", "amount": 1500000, "year": 2027, "depreciation_years": 12}
+  ],
+  "grants": [
+    {"name": "Modernisation Fund (battery)", "amount": 400000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR sM4.1 irrigation/pumps (50%, <=200k)", "amount": 175000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR greenhouse (~55%)", "amount": 825000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 1500000,
+    "debt": [{"amount": 1000000, "rate": 0.07, "term_years": 10, "type": "annuity", "draw_year": 2027}]
+  },
+  "dividend_payout": 0.3
+}

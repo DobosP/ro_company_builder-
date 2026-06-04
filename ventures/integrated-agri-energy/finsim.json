@@ -1,0 +1,45 @@
+{
+  "name": "Integrated agri-energy Phase 1+2 (solar+storage+pumps+lake+greenhouse), stacked grants",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 12,
+  "legal_form": "srl",
+  "tax_regime": "cit",
+  "discount_rate": 0.10,
+  "vat": {"registered": true, "rate": 0.11},
+  "revenue": [
+    {"name": "Greenhouse produce (high-value veg/fruit)", "amounts_by_year": [400000, 900000, 1300000, 1500000, 1600000, 1700000, 1750000, 1800000, 1850000, 1900000, 1950000, 2000000]},
+    {"name": "Energy savings + surplus power sales (self-consumption first)", "base": 180000, "growth": 0.02},
+    {"name": "Fish + algae (Phase 3 ramp, conservative)", "amounts_by_year": [0, 0, 80000, 160000, 240000, 300000, 340000, 360000, 380000, 400000, 420000, 440000]}
+  ],
+  "costs": {
+    "fixed_opex": 350000,
+    "variable_pct_of_revenue": 0.42,
+    "payroll": [
+      {"role": "Farm + greenhouse workers", "count": 6, "gross_monthly": 4000},
+      {"role": "Aquaculture / algae technician", "count": 1, "gross_monthly": 6000},
+      {"role": "System/energy + ops manager", "count": 1, "gross_monthly": 11000},
+      {"role": "Grant manager (part-time)", "count": 1, "gross_monthly": 6000}
+    ]
+  },
+  "capex": [
+    {"name": "Solar PV (agrivoltaic + floating, ~2 MWp)", "amount": 1300000, "year": 2027, "depreciation_years": 15},
+    {"name": "Battery storage (C&I, second-life option)", "amount": 700000, "year": 2027, "depreciation_years": 10},
+    {"name": "Solar boreholes + pumps + irrigation", "amount": 400000, "year": 2027, "depreciation_years": 10},
+    {"name": "Lakes / ponds earthworks", "amount": 500000, "year": 2027, "depreciation_years": 20},
+    {"name": "Smart greenhouse (~1 ha, phased from polytunnel)", "amount": 1600000, "year": 2027, "depreciation_years": 12},
+    {"name": "Aquaculture + algae kit (Phase 3)", "amount": 500000, "year": 2028, "depreciation_years": 10}
+  ],
+  "grants": [
+    {"name": "Modernisation Fund (battery)", "amount": 450000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR sM4.1 irrigation/pumps (50%, <=200k)", "amount": 200000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "AFIR greenhouse (~55%)", "amount": 880000, "year": 2027, "reduces_depreciation_base": true},
+    {"name": "EMFAF aquaculture + lakes (<=70%)", "amount": 700000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 1500000,
+    "debt": [{"amount": 1500000, "rate": 0.07, "term_years": 10, "type": "annuity", "draw_year": 2027}]
+  },
+  "dividend_payout": 0.3
+}
