@@ -1,0 +1,38 @@
+{
+  "name": "Phase 1 small start (own land, ~EUR 100k): greenhouse + pond + small solar, DR-14 grant",
+  "currency": "EUR",
+  "eur_rate": 1.0,
+  "start_year": 2027,
+  "horizon_years": 10,
+  "legal_form": "srl",
+  "tax_regime": "micro",
+  "discount_rate": 0.10,
+  "vat": {"registered": false, "rate": 0.11},
+  "revenue": [
+    {"name": "Herbs / microgreens / leafy greens (high margin/m2)", "amounts_by_year": [30000, 60000, 85000, 100000, 110000, 120000, 125000, 130000, 135000, 140000]},
+    {"name": "Spirulina / surplus produce + fertiliser savings", "amounts_by_year": [0, 8000, 16000, 24000, 30000, 34000, 36000, 38000, 40000, 42000]}
+  ],
+  "costs": {
+    "fixed_opex": 14000,
+    "variable_pct_of_revenue": 0.30,
+    "payroll": [
+      {"role": "Owner-operator (seasonal help only at first)", "count": 1, "gross_monthly": 4050}
+    ]
+  },
+  "capex": [
+    {"name": "Greenhouse/polytunnel + passive thermal mass", "amount": 38000, "year": 2027, "depreciation_years": 12},
+    {"name": "Drip irrigation + automation/sensors", "amount": 12000, "year": 2027, "depreciation_years": 8},
+    {"name": "Pond (duckweed) + liner + circulation", "amount": 9000, "year": 2027, "depreciation_years": 10},
+    {"name": "Small solar ~15 kWp + second-hand batteries (engineer free)", "amount": 22000, "year": 2027, "depreciation_years": 10},
+    {"name": "Frost heater + snow-melt + sensors", "amount": 8000, "year": 2027, "depreciation_years": 10},
+    {"name": "Spirulina tanks (indoor, optional)", "amount": 11000, "year": 2027, "depreciation_years": 8}
+  ],
+  "grants": [
+    {"name": "AFIR DR-14 small farm (85%, <= EUR 75k)", "amount": 75000, "year": 2027, "reduces_depreciation_base": true}
+  ],
+  "financing": {
+    "equity": 30000,
+    "debt": []
+  },
+  "dividend_payout": 0.0
+}

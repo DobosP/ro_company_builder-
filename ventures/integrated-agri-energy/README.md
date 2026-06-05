@@ -5,8 +5,10 @@
 ## Contents
 - [venture-brief.md](venture-brief.md) — the one-pager (start here)
 - [hard-questions.md](hard-questions.md) — answers to the [framework questions](../../framework/hard-questions.md)
-- [funding-stack.md](funding-stack.md) — **the core idea**: one system, many funds (SPV map)
-- [finsim-phase1.json](finsim-phase1.json) + [report](finsim-phase1-report.md) — **Phase 1 only** (recommended): IRR ~10%, no gap
+- [**phase1-small-start.md**](phase1-small-start.md) — ⭐ **start here**: own land, ~€100k, greenhouse + pond + small solar, DR-14 grant
+- [funding-stack.md](funding-stack.md) — the full vision: one system, many funds (SPV map)
+- [finsim-phase1-small.json](finsim-phase1-small.json) + [report](finsim-phase1-small-report.md) — ⭐ **small start** (~€100k): IRR ~25%
+- [finsim-phase1.json](finsim-phase1.json) + [report](finsim-phase1-report.md) — bigger Phase 1 (€3.4M): IRR ~10%
 - [finsim.json](finsim.json) + [report](finsim-report.md) — all-at-once (IRR ~0.5%, −€1.17M gap → **don't**)
 - [research/](research/) — [system design & funding map](research/system-design.md) + [sources](research/sources.md)
 
