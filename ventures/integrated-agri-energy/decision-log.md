@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Duckweed greenhouse: Cluj vs Suceava, pond companions, summer cooling
+- **Cluj vs Suceava:** Cluj winter ~**4°C milder** (Jan low −5.2 vs −9°C) → ~15–25% less heating + bigger market/EPC ecosystem; land near Cluj pricier. Same build. [I20](research/sources.md#i20)
+- **Pond companions:** ⭐ **Azolla** (N-fixing floating fern) is the ideal duckweed companion — self-fertilises (3–5 kg N/day/ha) + feed/fertiliser; add **watercress** in a separate channel as an edible cash crop; keep **spirulina separate** (alkaline). [I21](research/sources.md#i21)
+- **Summer 40°C → cooling needed but cheap:** duckweed dies >~35°C; use **ventilation + shade cloth + evaporative cooling + run water deeper (30–40 cm) in summer** (~€3–10k). The same greenhouse must handle −25→+40°C → strong insulation + big vents + shade + **adjustable water depth**. [I18](research/sources.md#i18)
+- Details added to [duckweed-greenhouse-suceava.md](duckweed-greenhouse-suceava.md).
+
+---
+
 ## 2026-05-29 — Greenhouse-ecosystem refinement: indoor pond + exotic crops, defer cows, drop fish
 - **Indoor duckweed pond = yes** (triple win): year-round growth, **thermal mass** (helps winter heat), **free humidity** for tropicals. Build as channels/tanks on the north wall; zone humidity; feed pond with diluted manure. [I11](research/sources.md#i11) [I13](research/sources.md#i13)
 - **Exotic year-round crops = the high-margin core:** anchor on **ginger + turmeric + exotic herbs + specialty chillies** (low effort, love the warm-humid pond microclimate, 100% import-substitution); add vanilla/saffron/cardamom later as laborious premium lines. [I17](research/sources.md#i17) [I15](research/sources.md#i15)

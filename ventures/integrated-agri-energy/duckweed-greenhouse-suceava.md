@@ -1,6 +1,6 @@
 # Year-Round Duckweed Greenhouse in Suceava — materials & cost
 
-> *How expensive, and what materials, to grow duckweed **year-round for animal feed** in cold Suceava?* Verified 2026-05; [I#] → [sources](research/sources.md). Honest headline below.
+> *How expensive, and what materials, to grow duckweed **year-round for animal feed** in cold Suceava?* Verified 2026-05; [I#] → [sources](research/sources.md). Honest headline below. **Cluj variant, pond companions (Azolla), and summer-cooling are covered in the later sections.**
 
 ## The honest headline
 **Year-round is the expensive mode.** Duckweed needs **water at 20–25°C** and decent light; it stops growing <15°C and dies near freezing. [I18](research/sources.md#i18) In Suceava (−20 to −25°C, heavy snow, ~8 h weak winter sun) that means **heating water + adding light through Dec–Feb** — the cost driver. Two routes:
@@ -67,7 +67,36 @@ At ~**1–3 kg dry matter/m²/yr** [I18](research/sources.md#i18), ~100 m² of w
 - Go **Route A** only for the part of the year/quantity you truly need fresh, or once the loop is proven.
 - **Heat the water with biomass** (Suceava wood), keep **solar + second-hand batteries for pumps/lights/controls**, and **insulate hard** (twin-wall + north wall + night screen) — that's what makes a Suceava winter affordable.
 
+## Building in Cluj instead of Suceava?
+**Cheaper to run, better market — same materials.**
+- **Milder winter:** Cluj Jan avg −2.2°C (low ~−5.2°C) vs Suceava −9°C — **~4°C warmer** → roughly **15–25% less heating** demand/fuel for year-round duckweed. [I20](research/sources.md#i20)
+- **Better market & ecosystem:** Cluj-Napoca is a major city — more buyers for premium produce, better logistics, skilled labour, and the **smart-grid/EPC ecosystem** (EnergoBit/Electrogrup) for your solar/battery build. [E51](../energy-storage/research/sources.md#e51)
+- **Trade-off:** land near Cluj is **pricier** than rural Suceava — but you own land already, so this only matters if you'd buy more.
+- **Same build** (twin-wall + insulated north wall + biomass + adjustable-depth basins); just a **slightly smaller heater**. Snow load is still significant (Transylvanian plateau) — keep the strong rating.
+- **Net:** if you have suitable land near Cluj, it's a **somewhat cheaper and more commercial** location for this; Suceava works too, just colder.
+
+## Can you grow companions in the pond? ✅ Yes — best partner is Azolla
+Duckweed floats and shades the water, so you can't grow much *under* it — companions share the **surface** or sit in **separate zones**:
+- **⭐ Azolla** (floating fern) — the classic duckweed companion: it **fixes its own nitrogen** (symbiotic cyanobacteria, up to 3–5 kg N/day/ha), so it grows in low-nutrient water **and cuts your fertiliser need**, while also being **feed + biofertiliser**. Grow duckweed + azolla together on the same surface. [I21](research/sources.md#i21)
+- **Edible cash crops in separate channels** (they compete for surface light, so zone them): **watercress** (high-value, shallow flowing water), **water spinach / kangkong** (fast Asian green).
+- **Spirulina — keep separate** (it needs very alkaline water ~pH 9–11 and open sun; incompatible in a duckweed basin). Put it in its own warm tank.
+- **Skip submerged plants/algae** — the duckweed mat shades them out (which is good: it suppresses mosquitoes & algae).
+- **Simplest high-value combo:** **duckweed + azolla** (both feed/fertiliser, azolla self-fertilises), plus a **watercress channel** if you want an edible sale crop.
+
+## Summer 40°C — yes, you need cooling (but it's cheap)
+Duckweed likes **20–25°C** and **suffers above ~30–35°C**; a closed greenhouse on a 40°C day can hit 50–60°C inside → lethal. So **cooling is required — but far cheaper than winter heating**, mostly passive:
+- **Big ventilation** — automatic **roof + side vents / roll-up sides** (the #1 tool).
+- **Retractable shade cloth (30–50%)** — duckweed doesn't need intense midday sun; shade cuts heat & evaporation.
+- **Run the water deeper in summer (30–40 cm)** — deep water heats slowly and buffers the swing (vs 15–20 cm in winter for fast warming). **Adjustable depth is the key design lever.** [I18](research/sources.md#i18)
+- **Evaporative cooling** (wet-pad + fan or fogging) — very effective in Romania's dryish summer heat; modest cost/power (good use of your solar+battery).
+- The **pond + duckweed cover self-cool** (evaporation + shading).
+- **Mechanical chilling: not needed** for duckweed.
+- **Cost:** vents + shade + evaporative ≈ **€3–10k** for the ~150 m² unit — small vs the heating budget.
+
+> **Design implication:** the *same* greenhouse must survive **−9 to −25°C winters and +40°C summers** → it needs **strong insulation + big ventilation + shade + adjustable water depth**. The pricey part is winter heat; summer cooling is cheap. Build for both from day one.
+
 ## Next actions
+- [ ] Decide **location** (Cluj = cheaper heat + market; Suceava = colder, rural).
 - [ ] Decide **Route A vs B** (how much *fresh* winter feed you actually need).
 - [ ] Size **water area** to your animals' protein need (~20% of ration).
 - [ ] Get a local **biomass boiler + twin-wall greenhouse** quote; confirm **Suceava snow load** with the supplier.
