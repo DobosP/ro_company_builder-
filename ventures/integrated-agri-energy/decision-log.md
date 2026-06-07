@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-05-29 — Greenhouse-ecosystem refinement: indoor pond + exotic crops, defer cows, drop fish
+- **Indoor duckweed pond = yes** (triple win): year-round growth, **thermal mass** (helps winter heat), **free humidity** for tropicals. Build as channels/tanks on the north wall; zone humidity; feed pond with diluted manure. [I11](research/sources.md#i11) [I13](research/sources.md#i13)
+- **Exotic year-round crops = the high-margin core:** anchor on **ginger + turmeric + exotic herbs + specialty chillies** (low effort, love the warm-humid pond microclimate, 100% import-substitution); add vanilla/saffron/cardamom later as laborious premium lines. [I17](research/sources.md#i17) [I15](research/sources.md#i15)
+- **Cows = defer.** Duckweed feeds cattle only as a **~20% protein supplement** (43% CP, between grass silage & soybean meal) and a small pond can't supply enough; cows add heavy labour/ANSVSA/forage → conflicts with low-effort goal. If livestock later, use **poultry/goats** for the manure→duckweed→feed loop, not cows. [I16](research/sources.md#i16)
+- **Fish dropped** (per user). Net: Phase 1 = greenhouse + indoor duckweed pond + exotic crops; exotics push revenue to the upper end of [finsim-phase1-small](finsim-phase1-small-report.md) and the pond cuts heating cost. See [greenhouse-ecosystem.md](greenhouse-ecosystem.md).
+
+---
+
 ## 2026-05-29 — Small-start path defined (own land, free engineer, low labour, ~€100k)
 - **Scope:** small greenhouse + drip irrigation + **duckweed pond** (biofertiliser loop) + small solar + **second-hand batteries** (engineer builds free) + optional indoor **spirulina** for protein. High-margin crop = **herbs/microgreens/leafy greens**. [I11](research/sources.md#i11) [I15](research/sources.md#i15)
 - **🎯 Grant fit:** **AFIR DR-14 small farms — €75,000, 85%**, sessions from 27 Feb 2026 — ideal for "start small, manageable solo." [I9](research/sources.md#i9)
