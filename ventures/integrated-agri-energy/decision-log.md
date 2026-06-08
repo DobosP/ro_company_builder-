@@ -4,9 +4,18 @@
 
 ---
 
+## 2026-05-29 — Suceava: go seasonal (warm-months) + self-sustaining pond + tropical crops
+- **Cheaper concept:** run **~May–Sept** (frost-free late Apr–early Oct; July ~25°C, heatwaves higher) on **passive solar + ventilation — no winter heating**; harvest ginger/turmeric in autumn, dry duckweed for winter feed, greenhouse dormant in winter → big cost cut. [I23](research/sources.md#i23)
+- **Self-sustaining low-effort pond (legal):** native **Lemna minor** + small **manure/compost-tea drip** for nutrients + **solar aerator** + full cover (suppresses algae/mosquitoes) + skimmer harvest. ⚠️ **Avoid EU-banned Azolla / water hyacinth.** [I22](research/sources.md#i22)
+- **Tropical high-margin (warm-season, no heat):** ginger + turmeric (plant spring / harvest autumn — perfect seasonal fit) + Thai/holy basil + lemongrass + specialty chillies; optional saffron (hardy, autumn). Pond gives humidity + fertiliser.
+- **Summer cooling (Suceava gets hot):** ventilation + shade + deeper water + evaporative (cheap). Full plan: [seasonal-tropical-concept.md](seasonal-tropical-concept.md).
+- **Correction:** earlier Azolla recommendation withdrawn — it's an EU invasive species. [I22](research/sources.md#i22)
+
+---
+
 ## 2026-05-29 — Duckweed greenhouse: Cluj vs Suceava, pond companions, summer cooling
 - **Cluj vs Suceava:** Cluj winter ~**4°C milder** (Jan low −5.2 vs −9°C) → ~15–25% less heating + bigger market/EPC ecosystem; land near Cluj pricier. Same build. [I20](research/sources.md#i20)
-- **Pond companions:** ⭐ **Azolla** (N-fixing floating fern) is the ideal duckweed companion — self-fertilises (3–5 kg N/day/ha) + feed/fertiliser; add **watercress** in a separate channel as an edible cash crop; keep **spirulina separate** (alkaline). [I21](research/sources.md#i21)
+- **Pond companions:** *[corrected — **Azolla is EU-banned invasive**, withdrawn [I22](research/sources.md#i22)]*; use native **Lemna minor** + a manure/compost nutrient drip; **watercress** in a separate channel as an edible cash crop; **spirulina** separate (alkaline).
 - **Summer 40°C → cooling needed but cheap:** duckweed dies >~35°C; use **ventilation + shade cloth + evaporative cooling + run water deeper (30–40 cm) in summer** (~€3–10k). The same greenhouse must handle −25→+40°C → strong insulation + big vents + shade + **adjustable water depth**. [I18](research/sources.md#i18)
 - Details added to [duckweed-greenhouse-suceava.md](duckweed-greenhouse-suceava.md).
 

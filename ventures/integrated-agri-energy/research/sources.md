@@ -43,3 +43,7 @@ Venture-specific sources. Reusable Romania facts → [`../../../knowledge/source
 <a id="i20"></a>**I20.** ClimatesToTravel / WeatherSpark — **Cluj-Napoca vs Suceava winter:** Cluj Jan avg −2.2°C (low −5.2°C) vs Suceava low −9°C → Cluj **~4°C milder** = lower heating demand; both snowy continental — https://www.climatestotravel.com/climate/romania/cluj-napoca — *verified 2026-05*
 
 <a id="i21"></a>**I21.** Feedipedia / Wikipedia / Survival Gardener — **Azolla** (floating fern): symbiotic **N-fixation (Anabaena), up to 3–5 kg N/day/ha**, thrives in low-N water, doubles in 2–3 days; **classic duckweed companion** (feed + biofertiliser); both are top aquatic feed plants — https://www.feedipedia.org/node/565 — *verified 2026-05*
+
+<a id="i22"></a>**I22.** The Azolla Foundation / OATA (EU Reg. 1143/2014) — **⚠️ Azolla filiculoides and water hyacinth (Eichhornia crassipes) are on the EU Invasive Alien Species list → cultivation/sale/keeping prohibited** in the EU/Romania; water lettuce listing contested. Use **native Lemna minor** instead — https://theazollafoundation.org/azolla/azolla-as-an-invasive-species/ — *verified 2026-05*
+
+<a id="i23"></a>**I23.** WeatherSpark — Suceava **warm season ~May–Sept**, July avg high ~25°C (heatwaves higher); frost-free roughly **late Apr–early Oct** → ~5–6 usable warm months — https://weatherspark.com/y/93718/Average-Weather-in-Suceava-Romania-Year-Round — *verified 2026-05*

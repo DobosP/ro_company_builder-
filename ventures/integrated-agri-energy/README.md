@@ -8,6 +8,7 @@
 - [**phase1-small-start.md**](phase1-small-start.md) — ⭐ **start here**: own land, ~€100k, greenhouse + pond + small solar, DR-14 grant
 - [**greenhouse-ecosystem.md**](greenhouse-ecosystem.md) — indoor duckweed pond + year-round exotic crops + (cows? not yet)
 - [**duckweed-greenhouse-suceava.md**](duckweed-greenhouse-suceava.md) — materials & cost for year-round duckweed in cold Suceava
+- [**seasonal-tropical-concept.md**](seasonal-tropical-concept.md) — ⭐ cheap **warm-months** Suceava plan: self-sustaining pond + tropical crops
 - [funding-stack.md](funding-stack.md) — the full vision: one system, many funds (SPV map)
 - [finsim-phase1-small.json](finsim-phase1-small.json) + [report](finsim-phase1-small-report.md) — ⭐ **small start** (~€100k): IRR ~25%
 - [finsim-phase1.json](finsim-phase1.json) + [report](finsim-phase1-report.md) — bigger Phase 1 (€3.4M): IRR ~10%

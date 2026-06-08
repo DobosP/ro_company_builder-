@@ -75,13 +75,16 @@ At ~**1–3 kg dry matter/m²/yr** [I18](research/sources.md#i18), ~100 m² of w
 - **Same build** (twin-wall + insulated north wall + biomass + adjustable-depth basins); just a **slightly smaller heater**. Snow load is still significant (Transylvanian plateau) — keep the strong rating.
 - **Net:** if you have suitable land near Cluj, it's a **somewhat cheaper and more commercial** location for this; Suceava works too, just colder.
 
-## Can you grow companions in the pond? ✅ Yes — best partner is Azolla
-Duckweed floats and shades the water, so you can't grow much *under* it — companions share the **surface** or sit in **separate zones**:
-- **⭐ Azolla** (floating fern) — the classic duckweed companion: it **fixes its own nitrogen** (symbiotic cyanobacteria, up to 3–5 kg N/day/ha), so it grows in low-nutrient water **and cuts your fertiliser need**, while also being **feed + biofertiliser**. Grow duckweed + azolla together on the same surface. [I21](research/sources.md#i21)
-- **Edible cash crops in separate channels** (they compete for surface light, so zone them): **watercress** (high-value, shallow flowing water), **water spinach / kangkong** (fast Asian green).
-- **Spirulina — keep separate** (it needs very alkaline water ~pH 9–11 and open sun; incompatible in a duckweed basin). Put it in its own warm tank.
-- **Skip submerged plants/algae** — the duckweed mat shades them out (which is good: it suppresses mosquitoes & algae).
-- **Simplest high-value combo:** **duckweed + azolla** (both feed/fertiliser, azolla self-fertilises), plus a **watercress channel** if you want an edible sale crop.
+## Can you grow companions in the pond? ✅ Yes — but mind EU invasive-species law
+> ⚠️ **Correction:** despite Azolla's famous nitrogen-fixing [I21](research/sources.md#i21), **Azolla filiculoides is on the EU Invasive Alien Species list — cultivation is prohibited** (so is water hyacinth; water lettuce is contested). **Don't use them.** [I22](research/sources.md#i22)
+
+Legal, low-effort options (companions share the **surface** or sit in **separate zones**):
+- **Native common duckweed (Lemna minor)** is the core — **native to Europe, legal.** ✓
+- **Watercress** (Nasturtium officinale) — high-value **native** edible, in a shallow side channel (zone it; competes for surface light).
+- **Spirulina — separate tank** (alkaline pH ~9–11, incompatible with duckweed).
+- **Nitrogen (since Azolla is out):** duckweed is a heavy feeder → add nutrients with a small **manure / compost-tea drip** (a few chickens/rabbits closes the loop) rather than an N-fixing fern.
+- **Skip submerged plants/algae** — the duckweed mat shades them out (good: suppresses mosquitoes & algae).
+- Always check any aquatic plant against the **EU IAS list** before introducing it.
 
 ## Summer 40°C — yes, you need cooling (but it's cheap)
 Duckweed likes **20–25°C** and **suffers above ~30–35°C**; a closed greenhouse on a 40°C day can hit 50–60°C inside → lethal. So **cooling is required — but far cheaper than winter heating**, mostly passive:
